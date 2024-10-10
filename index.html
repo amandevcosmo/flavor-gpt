@@ -1,0 +1,559 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ingredient Pairing</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <style>
+      body {
+        /* background-image: url("new2.png"); */
+        background-size: cover;
+        background-repeat: no-repeat;
+        /* color: white; */
+        font-family: "Poppins", sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: white;
+      }
+      .heading-holder {
+        width: max-content;
+        display: flex;
+        flex-direction: column;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 2%;
+        text-align: center;
+      }
+      .heading-holder h1 {
+        margin-bottom: 0;
+        font-size: 90px;
+      }
+      .heading-holder h3 {
+        margin-top: 0;
+        font-size: 25px;
+      }
+      .dropdown-holder {
+        margin-top: 3%;
+        margin-left: 3%;
+        display: flex;
+      }
+      select {
+        padding: 10px;
+        border-radius: 10px;
+        margin-right: 20px;
+        width: 220px;
+        margin-bottom: 20px;
+        margin-top: 10px;
+      }
+      label {
+        margin-right: 4px;
+        font-size: 14px;
+      }
+      .content-holder {
+        margin-left: 6%;
+        margin-left: auto;
+        margin-right: auto;
+        width: max-content;
+        margin-top: 4%;
+        background: white;
+        display: none;
+        color: black;
+        padding: 20px;
+        border-radius: 20px;
+      }
+      .pairing-select {
+        margin-left: 2%;
+      }
+      #score {
+        font-weight: bold;
+      }
+      #flavorCombination-holder {
+        margin: 0 auto;
+        margin-top: 3%;
+        /* text-align: center; */
+        background-color: white;
+        color: black;
+        padding: 15px;
+        border-radius: 10px;
+        width: 300px;
+        /* display: none; */
+        min-height: 100px;
+      }
+      /* ---------------- */
+      *{
+        margin: 0;
+        padding: 0;
+      }
+      .outer-container {
+        display: flex;
+        flex-direction: column;
+        place-content: center;
+        align-items: center;
+      }
+      .container {
+        max-width: 1200px;
+        padding: 62px 26px 62px 26px;
+        gap: 0px;
+        border-radius: var(--Spacemd);
+        border: 1px 0px 0px 0px;
+        opacity: 0px;
+        background-color: #FAFAFA;
+        border: 1px solid  #F1F1F1;
+        border-top-left-radius: 8px;
+        border-top-right-radius: 8px;
+        margin-top: 20px;
+      }
+      .main-ingredient-holder {
+        width: 590px;
+        height: 110px;
+        margin-left: auto;
+        margin-right: auto;
+      }
+      .main-ingredient-holder label {
+        font-family: "Roboto";
+        font-size: 22px;
+        font-weight: 500;
+        line-height: 25.78px;
+        text-align: left;
+        color: var(--Text-Heading, #2d2d2d);
+      }
+      .main-ingredient-holder select {
+        border-radius: 8px;
+        border: 1px solid #eaeaea;
+        background: #fff;
+        padding: 20px 24px;
+        width: 100%;
+        font-size: 16px;
+        color: #7f7f7f;
+      }
+      select:focus-visible {
+        outline: none;
+        border-color: 1px solid #eaeaea !important; /* Custom color when focused */
+      }
+
+      .ingredient-pairings-holder {
+        width: 1148px;
+        /* height: 253px; */
+        gap: 24px;
+      }
+      .ingredient-pairings-holder .row-1 {
+        display: grid;
+        grid-template-columns: repeat(
+          2,
+          1fr
+        ); /* Create 2 equal-width columns */
+        gap: 20px;
+        margin-top: 30px;
+      }
+      /* .ingredient-pairings-holder .row-1 div{
+        width: 100%;
+      } */
+      .perfect-match {
+        display: flex;
+        padding: 20px 16px;
+        align-items: center;
+        gap: 16px;
+        flex: 1 0 0;
+        background-color: #f8fceb;
+        border-radius: 8px;
+        border: 1px solid #d2ea7a;
+        max-height: 120px;
+      }
+      .perfect-match .pairing-ingredient {
+        width: 100%;
+      }
+      .perfect-match label {
+        color: #2d2d2d;
+        font-family: "Roboto";
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+      }
+      .perfect-match select {
+        color: #7f7f7f;
+        height: 55px;
+        width: 100%;
+        display: flex;
+        padding: 12px 20px;
+        align-items: center;
+        align-self: stretch;
+        border-radius: 8px;
+        border: 1px solid #eaeaea;
+        background: #fff;
+        font-family: "Poppins";
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+      }
+      .selected-ingredients {
+        display: flex;
+        width: 500px;
+        padding: 20px;
+        justify-content: space-between;
+        align-items: flex-start;
+        border-radius: 12px;
+        border: 1px solid #e3a40f;
+        background: #f9b410;
+        box-shadow: 0px 0px 28px 0px rgba(0, 0, 0, 0.13);
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 20px;
+      }
+      /* .selected-ingredients .left-section {
+        width: 70%;
+      } */
+      /* .selected-ingredients .right-section {
+        width: 30%;
+        border-right: 1px slid white;
+      } */
+      .selected-ingredients .left-section h3 {
+        color: #2d2d2d;
+        font-family: Roboto;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        margin-bottom: 8px;
+      }
+      /* .selected-ingredients .right-section h3 {
+        color: #2d2d2d;
+        font-family: Roboto;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+      } */
+      .current-selected-ingredient {
+        display: flex;
+        padding: 12px 24px;
+        justify-content: center;
+        align-items: center;
+        max-height: 35px;
+        border-radius: 40px;
+        background: #dbf226;
+        width: max-content;
+        color: #2d2d2d;
+        font-family: "Roboto";
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+      }
+      .user-selected-ingredients {
+        display: flex;
+        margin-top: 10px;
+        flex-wrap: wrap;
+        gap: 10px 0px;
+      }
+      .user-selected-ingredients .single-ingredient {
+        display: flex;
+        padding: 8px 16px;
+        justify-content: center;
+        align-items: center;
+        border-radius: 40px;
+        background: #fff;
+        margin-left: 3px;
+      }
+
+      /* .selected-ingredients .right-section {
+        margin-left: 50px;
+        padding-left: 50px;
+        border-left: 1px solid white;
+      } */
+      /* .selected-ingredients .right-section h1 {
+        color: #694c07;
+        font-family: Roboto;
+        font-size: 100px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        margin: 0;
+      } */
+      .plus-icon {
+        color: white;
+        margin-top: auto;
+        margin-bottom: auto;
+        margin-left: 5px;
+        margin-right: 5px;
+      }
+      .flavor-affinites-holder {
+        background-color: white;
+        padding-top: 48px;
+        padding-bottom: 48px;
+        /* padding-left: 80px; */
+        width: 1200px;
+        border: 1px solid  #F1F1F1;
+        border-bottom-left-radius: 8px;
+        border-bottom-right-radius: 8px;
+        margin-bottom: 40px;
+      }
+      .flavor-affinites {
+        margin-left: 40px;
+        max-height: 231px;
+        display: flex;
+        width: 460px;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: var(--Space-md, 24px);
+        overflow-y: auto;
+      }
+
+      .flavor-affinites h3 {
+        color: #2d2d2d;
+        font-family: "Roboto";
+        font-size: 22px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+      }
+      .single-affinity{
+        margin-bottom: 2px;
+      }
+      #user-selcted-main-ingredient{
+        margin-bottom: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="outer-container">
+      <div class="container">
+        <div class="main-ingredient-holder">
+          <label for="Main Ingredient">Choose Main ingredient</label><br />
+          <select id="mainIngredient">
+            <option value="">Select Main Ingredient</option>
+          </select>
+        </div>
+
+        <div class="ingredient-pairings-holder">
+          <div class="row-1">
+            <div class="perfect-match">
+              <div class="logo">
+                <img src="perfect.svg" alt="" />
+              </div>
+              <div class="pairing-ingredient">
+                <label for="">Rank 1 Perfect Match</label><br />
+                <select id="pairingScore5">
+                  <option value="">Select Pairing Ingredient</option>
+                </select>
+              </div>
+            </div>
+
+            <div class="perfect-match">
+              <div class="logo">
+                <img src="best.svg" alt="" />
+              </div>
+              <div class="pairing-ingredient">
+                <label for="">Rank 2 Good Match</label><br />
+                <select id="pairingScore4">
+                  <option value="">Select Pairing Ingredient</option>
+                </select>
+              </div>
+            </div>
+
+            <div class="perfect-match">
+              <!-- <div class="logo">
+                <img src="best.svg" alt="" />
+              </div> -->
+              <div class="pairing-ingredient">
+                <label for="">Rank 3</label><br />
+                <select id="pairingScore3">
+                  <option value="">Select Pairing Ingredient</option>
+                </select>
+              </div>
+            </div>
+
+            <div class="perfect-match">
+              <!-- <div class="logo">
+                <img src="best.svg" alt="" />
+              </div> -->
+              <div class="pairing-ingredient">
+                <label for="">Rank 4</label><br />
+                <select id="pairingScore1">
+                  <option value="">Select Pairing Ingredient</option>
+                </select>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="selected-ingredients">
+          <div class="left-section">
+            <h3>Matching Ingredients</h3>
+
+            <div id="user-selcted-main-ingredient"></div>
+
+            <h3>Pairing Ingredients</h3>
+            <div class="user-selected-ingredients" id="flavorCombination"></div>
+          </div>
+          <!-- <div class="right-section">
+            <h3>Matching Score</h3>
+            <h1>80%</h1>
+          </div> -->
+        </div>
+      </div>
+      <div class="flavor-affinites-holder">
+        <div class="flavor-affinites">
+          <h3>Flavor Affinities</h3>
+          <p id="flavorAffinities"></p>
+        </div>
+      </div>
+    </div>
+
+   
+  </body>
+  <script>
+    // Fetch the external JSON file
+    fetch("ingredients.json")
+      .then((response) => response.json())
+      .then((data) => {
+        // --------------------------Selectors-------------------
+        const mainIngredientSelect = document.getElementById("mainIngredient");
+        const score1Select = document.getElementById("pairingScore1");
+        const score3Select = document.getElementById("pairingScore3");
+        const score4Select = document.getElementById("pairingScore4");
+        const score5Select = document.getElementById("pairingScore5");
+        const flavorAffinitiesElement =
+          document.getElementById("flavorAffinities");
+        const contentElement = document.querySelector(".content-holder");
+        const flavorCombinationBox =
+          document.getElementById("flavorCombination");
+        const user_selected_main_ing = document.querySelector(
+          "#user-selcted-main-ingredient"
+        );
+
+        // -------------------Populate main ingredient dropdown-------
+        Object.keys(data).forEach((ingredient) => {
+          const option = document.createElement("option");
+          option.value = ingredient;
+          option.textContent = ingredient;
+          mainIngredientSelect.appendChild(option);
+        });
+
+        // -----------Update pairing dropdowns when main ingredient is selected----
+        mainIngredientSelect.addEventListener("change", function () {
+          user_selected_main_ing.innerHTML = "";
+          const selectedMainIngredient = data[this.value];
+          // contentElement.style.display = "none";
+          const pairings = selectedMainIngredient.pairings;
+
+          const main_ing_div = document.createElement("div");
+          main_ing_div.classList.add("current-selected-ingredient");
+          main_ing_div.textContent = mainIngredientSelect.value; // Set the text to the pairing
+          user_selected_main_ing.appendChild(main_ing_div);
+
+          // flavorCombinationBox.style.display = "none";
+          flavorCombinationBox.innerHTML = "";
+
+          if (selectedMainIngredient) {
+            populatePairingDropdown(selectedMainIngredient);
+          }
+          if (selectedMainIngredient.flavor_affinities?.length > 0) {
+    console.log("FA", selectedMainIngredient);
+    
+    // Clear previous flavor affinities
+    flavorAffinitiesElement.innerHTML = ""; 
+
+    // Loop through each flavor affinity and create a new p element
+    selectedMainIngredient.flavor_affinities.forEach((affinity) => {
+        const affinityElement = document.createElement("p");
+        affinityElement.classList.add("single-affinity"); // Add the class
+        affinityElement.textContent = affinity; // Set the text to the affinity
+        flavorAffinitiesElement.appendChild(affinityElement); // Append to the parent element
+    });
+    
+    // Optionally show the content element
+    // contentElement.style.display = "block"; 
+}
+        });
+
+        // Clear and populate pairing dropdowns
+        function populatePairingDropdown(selectedMainIngredient) {
+          const pairings = selectedMainIngredient.pairings;
+          const score1Pairings = pairings.filter((p) => p.score === 1);
+          const score3Pairings = pairings.filter((p) => p.score === 3);
+          const score4Pairings = pairings.filter((p) => p.score === 4);
+          const score5Pairings = pairings.filter((p) => p.score === 5);
+
+          // Helper function to populate a select
+          function populateSelect(selectElement, pairings) {
+            selectElement.innerHTML =
+              '<option value="">Select Pairing Ingredient</option>';
+            pairings.forEach((pairing) => {
+              const option = document.createElement("option");
+              option.value = pairing.pairing;
+              option.textContent = pairing.pairing;
+              selectElement.appendChild(option);
+            });
+          }
+
+          populateSelect(score1Select, score1Pairings);
+          populateSelect(score3Select, score3Pairings);
+          populateSelect(score4Select, score4Pairings);
+          populateSelect(score5Select, score5Pairings);
+        }
+
+        function updateFlavorCombination() {
+          const selectedPairing1 = score1Select.value;
+          const selectedPairing3 = score3Select.value;
+          const selectedPairing4 = score4Select.value;
+          const selectedPairing5 = score5Select.value;
+          // console.log(flavorCombinationBox,selectedPairing1)
+          // <strong>Selected Combinations:</strong><br>
+
+          const selectedPairings = [
+            selectedPairing1,
+            selectedPairing3,
+            selectedPairing4,
+            selectedPairing5,
+          ].filter(Boolean);
+
+          flavorCombinationBox.innerHTML = "";
+          selectedPairings.forEach((pairing, index) => {
+            const pairingDiv = document.createElement("div");
+            pairingDiv.classList.add("single-ingredient");
+            pairingDiv.textContent = pairing; // Set the text to the pairing
+            flavorCombinationBox.appendChild(pairingDiv); // Append to the box
+            if (index < selectedPairings.length - 1) {
+              const plusDiv = document.createElement("div");
+              plusDiv.classList.add("plus-icon");
+              plusDiv.innerHTML = "+"; // You can replace this with an actual SVG icon if needed
+              flavorCombinationBox.appendChild(plusDiv);
+            }
+          });
+
+          // flavorCombinationBox.innerHTML = selectedPairings.join(", ");
+          //   flavorCombinationBox.innerHTML = `
+          //   ${selectedPairing1 ? selectedPairing1 : ""}
+          //   ${selectedPairing3 ? selectedPairing3 : ""}
+          //   ${selectedPairing4 ? selectedPairing4 : ""}
+          //   ${selectedPairing5 ? selectedPairing5 : ""}
+          // `;
+
+          // flavorCombinationBox.style.display =
+          //   selectedPairing1 ||
+          //   selectedPairing3 ||
+          //   selectedPairing4 ||
+          //   selectedPairing5
+          //     ? "block"
+          //     : "none";
+        }
+        // Add event listeners for the pairing dropdowns
+        score1Select.addEventListener("change", updateFlavorCombination);
+        score3Select.addEventListener("change", updateFlavorCombination);
+        score4Select.addEventListener("change", updateFlavorCombination);
+        score5Select.addEventListener("change", updateFlavorCombination);
+      })
+      .catch((error) => console.error("Error fetching data:", error));
+  </script>
+</html>

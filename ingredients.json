@@ -1,0 +1,4355 @@
+{
+  "ACHIOTE SEEDS": {
+    "pairings": [
+      {
+        "pairing": "beef",
+        "score": 1
+      },
+      {
+        "pairing": "chicken",
+        "score": 1
+      },
+      {
+        "pairing": "chiles",
+        "score": 1
+      },
+      {
+        "pairing": "citrus (e.g., sour orange)",
+        "score": 1
+      },
+      {
+        "pairing": "fish",
+        "score": 1
+      },
+      {
+        "pairing": "game birds (e.g., duck, quail)",
+        "score": 1
+      },
+      {
+        "pairing": "garlic",
+        "score": 1
+      },
+      {
+        "pairing": "Mexican cuisine, esp. Yucat\u00e1n oil",
+        "score": 3
+      },
+      {
+        "pairing": "pork",
+        "score": 3
+      },
+      {
+        "pairing": "shellfish, e.g., lobster, shrimp",
+        "score": 1
+      },
+      {
+        "pairing": "shrimp",
+        "score": 1
+      }
+    ],
+    "flavor_affinities": ["achiote + pork + sour orange"]
+  },
+  "ALLSPICE": {
+    "pairings": [
+      {
+        "pairing": "apples",
+        "score": 1
+      },
+      {
+        "pairing": "baked goods",
+        "score": 1
+      },
+      {
+        "pairing": "beans",
+        "score": 1
+      },
+      {
+        "pairing": "BEEF, esp. braised, corned, grilled, ground, raw, roasted, or stewed",
+        "score": 4
+      },
+      {
+        "pairing": "beets",
+        "score": 1
+      },
+      {
+        "pairing": "breads, esp. breakfast",
+        "score": 1
+      },
+      {
+        "pairing": "cabbage",
+        "score": 1
+      },
+      {
+        "pairing": "cakes",
+        "score": 1
+      },
+      {
+        "pairing": "Caribbean cuisine",
+        "score": 1
+      },
+      {
+        "pairing": "carrots",
+        "score": 1
+      },
+      {
+        "pairing": "chicken (e.g., Jamaican style)",
+        "score": 3
+      },
+      {
+        "pairing": "chickpeas",
+        "score": 1
+      },
+      {
+        "pairing": "chile peppers",
+        "score": 1
+      },
+      {
+        "pairing": "cinnamon",
+        "score": 1
+      },
+      {
+        "pairing": "cloves",
+        "score": 1
+      },
+      {
+        "pairing": "cookies",
+        "score": 1
+      },
+      {
+        "pairing": "coriander",
+        "score": 1
+      },
+      {
+        "pairing": "currants, esp. black",
+        "score": 1
+      },
+      {
+        "pairing": "curries and curry powder",
+        "score": 3
+      },
+      {
+        "pairing": "Eastern Mediterranean cuisine",
+        "score": 1
+      },
+      {
+        "pairing": "eggplant",
+        "score": 1
+      },
+      {
+        "pairing": "English cuisine",
+        "score": 1
+      },
+      {
+        "pairing": "fish, esp. grilled",
+        "score": 1
+      },
+      {
+        "pairing": "fruits, fruit compotes, and jams",
+        "score": 3
+      },
+      {
+        "pairing": "game and game birds (e.g., quail)",
+        "score": 1
+      },
+      {
+        "pairing": "garlic",
+        "score": 1
+      },
+      {
+        "pairing": "ginger",
+        "score": 3
+      },
+      {
+        "pairing": "goat",
+        "score": 1
+      },
+      {
+        "pairing": "grains",
+        "score": 1
+      },
+      {
+        "pairing": "ham",
+        "score": 1
+      },
+      {
+        "pairing": "herring, pickled",
+        "score": 1
+      },
+      {
+        "pairing": "Indian cuisine",
+        "score": 1
+      },
+      {
+        "pairing": "JAMAICAN CUISINE (e.g., jerk dishes)",
+        "score": 4
+      },
+      {
+        "pairing": "ketchup",
+        "score": 1
+      },
+      {
+        "pairing": "lamb",
+        "score": 1
+      },
+      {
+        "pairing": "mace",
+        "score": 1
+      },
+      {
+        "pairing": "MEATS, red, esp. braised, grilled, or roasted",
+        "score": 4
+      },
+      {
+        "pairing": "Mexican cuisine",
+        "score": 1
+      },
+      {
+        "pairing": "Middle Eastern cuisine",
+        "score": 1
+      },
+      {
+        "pairing": "mushrooms",
+        "score": 1
+      },
+      {
+        "pairing": "mustard",
+        "score": 1
+      },
+      {
+        "pairing": "North American cuisine",
+        "score": 1
+      },
+      {
+        "pairing": "nutmeg",
+        "score": 1
+      },
+      {
+        "pairing": "nuts",
+        "score": 1
+      },
+      {
+        "pairing": "onions",
+        "score": 1
+      },
+      {
+        "pairing": "pepper, black",
+        "score": 1
+      },
+      {
+        "pairing": "pies",
+        "score": 1
+      },
+      {
+        "pairing": "pineapple",
+        "score": 1
+      },
+      {
+        "pairing": "pork",
+        "score": 1
+      },
+      {
+        "pairing": "PUMPKIN",
+        "score": 3
+      },
+      {
+        "pairing": "rabbit",
+        "score": 1
+      },
+      {
+        "pairing": "rice",
+        "score": 1
+      },
+      {
+        "pairing": "rosemary",
+        "score": 1
+      },
+      {
+        "pairing": "salsas and sauces",
+        "score": 1
+      },
+      {
+        "pairing": "sauerkraut",
+        "score": 1
+      },
+      {
+        "pairing": "sausages",
+        "score": 1
+      },
+      {
+        "pairing": "soups",
+        "score": 1
+      },
+      {
+        "pairing": "spiced cakes",
+        "score": 1
+      },
+      {
+        "pairing": "spinach",
+        "score": 1
+      },
+      {
+        "pairing": "squash, winter",
+        "score": 3
+      },
+      {
+        "pairing": "stews",
+        "score": 1
+      },
+      {
+        "pairing": "stocks and broths, chicken",
+        "score": 1
+      },
+      {
+        "pairing": "sweet potatoes",
+        "score": 1
+      },
+      {
+        "pairing": "thyme",
+        "score": 1
+      },
+      {
+        "pairing": "tomatoes",
+        "score": 1
+      },
+      {
+        "pairing": "turnips",
+        "score": 1
+      },
+      {
+        "pairing": "vegetables, esp. root",
+        "score": 1
+      },
+      {
+        "pairing": "West Indies cuisine",
+        "score": 1
+      }
+    ],
+    "flavor_affinities": [
+      "allspice + beef + onions",
+      "allspice + garlic + pork"
+    ]
+  },
+  "ALMONDS": {
+    "pairings": [
+      {
+        "pairing": "amaretto",
+        "score": 1
+      },
+      {
+        "pairing": "anise, esp. green",
+        "score": 1
+      },
+      {
+        "pairing": "apples",
+        "score": 1
+      },
+      {
+        "pairing": "apricots",
+        "score": 3
+      },
+      {
+        "pairing": "beans",
+        "score": 1
+      },
+      {
+        "pairing": "blackberries",
+        "score": 1
+      },
+      {
+        "pairing": "brandy",
+        "score": 1
+      },
+      {
+        "pairing": "BUTTER, UNSALTED",
+        "score": 3
+      },
+      {
+        "pairing": "butterscotch",
+        "score": 1
+      },
+      {
+        "pairing": "caramel",
+        "score": 3
+      },
+      {
+        "pairing": "cardamom",
+        "score": 1
+      },
+      {
+        "pairing": "cayenne",
+        "score": 1
+      },
+      {
+        "pairing": "cheese: goat, manchego, ricotta",
+        "score": 1
+      },
+      {
+        "pairing": "cherries, esp. sour",
+        "score": 1
+      },
+      {
+        "pairing": "chicken",
+        "score": 1
+      },
+      {
+        "pairing": "CHOCOLATE: DARK, MILK",
+        "score": 3
+      },
+      {
+        "pairing": "chocolate, white",
+        "score": 1
+      },
+      {
+        "pairing": "cinnamon",
+        "score": 1
+      },
+      {
+        "pairing": "coconut",
+        "score": 3
+      },
+      {
+        "pairing": "coffee",
+        "score": 3
+      },
+      {
+        "pairing": "cornmeal",
+        "score": 1
+      },
+      {
+        "pairing": "corn syrup",
+        "score": 1
+      },
+      {
+        "pairing": "crab",
+        "score": 1
+      },
+      {
+        "pairing": "cranberries",
+        "score": 1
+      },
+      {
+        "pairing": "CREAM",
+        "score": 3
+      },
+      {
+        "pairing": "cream cheese",
+        "score": 1
+      },
+      {
+        "pairing": "cr\u00e8me fra\u00eeche",
+        "score": 1
+      },
+      {
+        "pairing": "crust: pastry, pie",
+        "score": 1
+      },
+      {
+        "pairing": "currants",
+        "score": 1
+      },
+      {
+        "pairing": "figs",
+        "score": 3
+      },
+      {
+        "pairing": "fish",
+        "score": 1
+      },
+      {
+        "pairing": "French pastries",
+        "score": 1
+      },
+      {
+        "pairing": "fruits, most",
+        "score": 1
+      },
+      {
+        "pairing": "garlic",
+        "score": 1
+      },
+      {
+        "pairing": "grapes",
+        "score": 1
+      },
+      {
+        "pairing": "Greek cuisine",
+        "score": 1
+      },
+      {
+        "pairing": "greens, salad",
+        "score": 1
+      },
+      {
+        "pairing": "hazelnuts",
+        "score": 3
+      },
+      {
+        "pairing": "HONEY",
+        "score": 3
+      },
+      {
+        "pairing": "ice cream",
+        "score": 1
+      },
+      {
+        "pairing": "Indian cuisine",
+        "score": 1
+      },
+      {
+        "pairing": "Italian sauces",
+        "score": 1
+      },
+      {
+        "pairing": "lamb",
+        "score": 1
+      },
+      {
+        "pairing": "lavender",
+        "score": 1
+      },
+      {
+        "pairing": "lemon: juice, zest",
+        "score": 3
+      },
+      {
+        "pairing": "liqueurs, fruit (including orange)",
+        "score": 1
+      },
+      {
+        "pairing": "mascarpone",
+        "score": 1
+      },
+      {
+        "pairing": "Mediterranean cuisine",
+        "score": 1
+      },
+      {
+        "pairing": "Mexican beverages and mole sauces",
+        "score": 1
+      },
+      {
+        "pairing": "milk, sweetened condensed",
+        "score": 1
+      },
+      {
+        "pairing": "molasses",
+        "score": 1
+      },
+      {
+        "pairing": "Moroccan cuisine",
+        "score": 1
+      },
+      {
+        "pairing": "nectarines",
+        "score": 1
+      },
+      {
+        "pairing": "oats",
+        "score": 1
+      },
+      {
+        "pairing": "olive oil",
+        "score": 3
+      },
+      {
+        "pairing": "olives",
+        "score": 1
+      },
+      {
+        "pairing": "orange: juice, zest",
+        "score": 3
+      },
+      {
+        "pairing": "paprika",
+        "score": 1
+      },
+      {
+        "pairing": "passion fruit",
+        "score": 1
+      },
+      {
+        "pairing": "peaches",
+        "score": 1
+      },
+      {
+        "pairing": "pears",
+        "score": 1
+      },
+      {
+        "pairing": "pecans",
+        "score": 1
+      },
+      {
+        "pairing": "pepper, ground",
+        "score": 1
+      },
+      {
+        "pairing": "pine nuts",
+        "score": 1
+      },
+      {
+        "pairing": "plums",
+        "score": 1
+      },
+      {
+        "pairing": "praline",
+        "score": 1
+      },
+      {
+        "pairing": "prunes",
+        "score": 1
+      },
+      {
+        "pairing": "quince",
+        "score": 1
+      },
+      {
+        "pairing": "raisins, esp. white",
+        "score": 1
+      },
+      {
+        "pairing": "raspberries",
+        "score": 1
+      },
+      {
+        "pairing": "rhubarb",
+        "score": 1
+      },
+      {
+        "pairing": "rice",
+        "score": 1
+      },
+      {
+        "pairing": "rosemary",
+        "score": 1
+      },
+      {
+        "pairing": "rum",
+        "score": 1
+      },
+      {
+        "pairing": "salt: kosher, sea",
+        "score": 3
+      },
+      {
+        "pairing": "shellfish",
+        "score": 1
+      },
+      {
+        "pairing": "sherry",
+        "score": 1
+      },
+      {
+        "pairing": "Spanish cuisine, esp. sauces",
+        "score": 1
+      },
+      {
+        "pairing": "strawberries",
+        "score": 1
+      },
+      {
+        "pairing": "sugar: brown, white",
+        "score": 3
+      },
+      {
+        "pairing": "tea",
+        "score": 1
+      },
+      {
+        "pairing": "Turkish cuisine",
+        "score": 1
+      },
+      {
+        "pairing": "VANILLA",
+        "score": 3
+      },
+      {
+        "pairing": "Walnuts",
+        "score": 1
+      }
+    ],
+    "flavor_affinities": [
+      "almonds + chocolate + coconut",
+      "almonds + coffee + orange",
+      "almonds + green anise + figs",
+      "almonds + honey + orange zest + raisins"
+    ]
+  },
+  "AMARETTO": {
+    "pairings": [
+      {
+        "pairing": "almonds",
+        "score": 1
+      },
+      {
+        "pairing": "apricots",
+        "score": 1
+      },
+      {
+        "pairing": "butter",
+        "score": 1
+      },
+      {
+        "pairing": "cherries",
+        "score": 1
+      },
+      {
+        "pairing": "chocolate",
+        "score": 1
+      },
+      {
+        "pairing": "coffee",
+        "score": 1
+      },
+      {
+        "pairing": "cream",
+        "score": 1
+      },
+      {
+        "pairing": "hazelnuts",
+        "score": 1
+      },
+      {
+        "pairing": "Italian cuisine",
+        "score": 1
+      },
+      {
+        "pairing": "peaches",
+        "score": 1
+      },
+      {
+        "pairing": "pork",
+        "score": 1
+      },
+      {
+        "pairing": "sugar",
+        "score": 1
+      }
+    ],
+    "flavor_affinities": []
+  },
+  "ANCHOVIES": {
+    "pairings": [
+      {
+        "pairing": "almonds",
+        "score": 3
+      },
+      {
+        "pairing": "basil",
+        "score": 1
+      },
+      {
+        "pairing": "beans, green",
+        "score": 1
+      },
+      {
+        "pairing": "bell peppers, esp. roasted",
+        "score": 1
+      },
+      {
+        "pairing": "capers",
+        "score": 3
+      },
+      {
+        "pairing": "carrots",
+        "score": 1
+      },
+      {
+        "pairing": "cauliflower",
+        "score": 1
+      },
+      {
+        "pairing": "celery",
+        "score": 1
+      },
+      {
+        "pairing": "cheese: manchego, mozzarella, Parmesan",
+        "score": 3
+      },
+      {
+        "pairing": "chives",
+        "score": 1
+      },
+      {
+        "pairing": "eggs, hard-boiled",
+        "score": 3
+      },
+      {
+        "pairing": "fennel",
+        "score": 1
+      },
+      {
+        "pairing": "GARLIC",
+        "score": 3
+      },
+      {
+        "pairing": "lemon, juice",
+        "score": 3
+      },
+      {
+        "pairing": "lobster",
+        "score": 1
+      },
+      {
+        "pairing": "mayonnaise",
+        "score": 3
+      },
+      {
+        "pairing": "Mediterranean cuisine",
+        "score": 1
+      },
+      {
+        "pairing": "mustard (e.g., Dijon)",
+        "score": 1
+      },
+      {
+        "pairing": "nectarines",
+        "score": 1
+      },
+      {
+        "pairing": "OLIVE OIL",
+        "score": 3
+      },
+      {
+        "pairing": "olives (e.g., black, green, ni\u00e7oise)",
+        "score": 3
+      },
+      {
+        "pairing": "onions",
+        "score": 1
+      },
+      {
+        "pairing": "orange, zest",
+        "score": 1
+      },
+      {
+        "pairing": "parsley, flat-leaf",
+        "score": 3
+      },
+      {
+        "pairing": "pasta",
+        "score": 3
+      },
+      {
+        "pairing": "pepper: black, white",
+        "score": 3
+      },
+      {
+        "pairing": "peppers, piquillo",
+        "score": 1
+      },
+      {
+        "pairing": "pizza",
+        "score": 1
+      },
+      {
+        "pairing": "potatoes",
+        "score": 1
+      },
+      {
+        "pairing": "puttanesca sauce (key ingredient)",
+        "score": 1
+      },
+      {
+        "pairing": "red pepper flakes",
+        "score": 1
+      },
+      {
+        "pairing": "romaine lettuce",
+        "score": 1
+      },
+      {
+        "pairing": "rosemary",
+        "score": 1
+      },
+      {
+        "pairing": "salads, esp. Caesar (key ingredient)",
+        "score": 1
+      },
+      {
+        "pairing": "salmon",
+        "score": 1
+      },
+      {
+        "pairing": "salt: kosher, sea",
+        "score": 3
+      },
+      {
+        "pairing": "shallots",
+        "score": 1
+      },
+      {
+        "pairing": "sherry, PX",
+        "score": 1
+      },
+      {
+        "pairing": "tapenade (key ingredient)",
+        "score": 1
+      },
+      {
+        "pairing": "thyme",
+        "score": 1
+      },
+      {
+        "pairing": "tomatoes",
+        "score": 1
+      },
+      {
+        "pairing": "tuna",
+        "score": 1
+      },
+      {
+        "pairing": "vinegar: champagne, red wine, sherry",
+        "score": 3
+      }
+    ],
+    "flavor_affinities": ["anchovies + lemon + olive oil + rosemary"]
+  },
+  "ANGELICA": {
+    "pairings": [
+      {
+        "pairing": "almonds",
+        "score": 3
+      },
+      {
+        "pairing": "anise",
+        "score": 1
+      },
+      {
+        "pairing": "apricots",
+        "score": 3
+      },
+      {
+        "pairing": "candy",
+        "score": 1
+      },
+      {
+        "pairing": "cream and ice cream",
+        "score": 3
+      },
+      {
+        "pairing": "custards",
+        "score": 1
+      },
+      {
+        "pairing": "desserts",
+        "score": 3
+      },
+      {
+        "pairing": "fish",
+        "score": 1
+      },
+      {
+        "pairing": "fruits",
+        "score": 1
+      },
+      {
+        "pairing": "ginger: fresh, candied",
+        "score": 3
+      },
+      {
+        "pairing": "hazelnuts",
+        "score": 1
+      },
+      {
+        "pairing": "juniper berries",
+        "score": 1
+      },
+      {
+        "pairing": "lavender",
+        "score": 3
+      },
+      {
+        "pairing": "lemon balm",
+        "score": 1
+      },
+      {
+        "pairing": "liqueurs",
+        "score": 1
+      },
+      {
+        "pairing": "mushrooms",
+        "score": 1
+      },
+      {
+        "pairing": "nutmeg",
+        "score": 1
+      },
+      {
+        "pairing": "oranges",
+        "score": 3
+      },
+      {
+        "pairing": "pepper, black",
+        "score": 1
+      },
+      {
+        "pairing": "plums",
+        "score": 3
+      },
+      {
+        "pairing": "*RHUBARB",
+        "score": 5
+      },
+      {
+        "pairing": "salads",
+        "score": 1
+      },
+      {
+        "pairing": "shellfish",
+        "score": 1
+      },
+      {
+        "pairing": "strawberries",
+        "score": 3
+      }
+    ],
+    "flavor_affinities": ["angelica + cream + rhubarb"]
+  },
+  "ANISE": {
+    "pairings": [
+      {
+        "pairing": "allspice",
+        "score": 1
+      },
+      {
+        "pairing": "almonds",
+        "score": 1
+      },
+      {
+        "pairing": "apples",
+        "score": 1
+      },
+      {
+        "pairing": "baked goods, esp. cakes, cookies",
+        "score": 1
+      },
+      {
+        "pairing": "beets",
+        "score": 1
+      },
+      {
+        "pairing": "breads, esp. rye",
+        "score": 3
+      },
+      {
+        "pairing": "cabbage",
+        "score": 1
+      },
+      {
+        "pairing": "cakes",
+        "score": 3
+      },
+      {
+        "pairing": "cardamom",
+        "score": 1
+      },
+      {
+        "pairing": "carrots",
+        "score": 1
+      },
+      {
+        "pairing": "cauliflower",
+        "score": 1
+      },
+      {
+        "pairing": "cheese, esp. goat and ricotta",
+        "score": 1
+      },
+      {
+        "pairing": "chestnuts",
+        "score": 1
+      },
+      {
+        "pairing": "Chinese cuisine",
+        "score": 1
+      },
+      {
+        "pairing": "cinnamon",
+        "score": 1
+      },
+      {
+        "pairing": "cloves",
+        "score": 1
+      },
+      {
+        "pairing": "coffee",
+        "score": 1
+      },
+      {
+        "pairing": "cookies",
+        "score": 3
+      },
+      {
+        "pairing": "crab",
+        "score": 1
+      },
+      {
+        "pairing": "cream",
+        "score": 1
+      },
+      {
+        "pairing": "cumin",
+        "score": 1
+      },
+      {
+        "pairing": "dates",
+        "score": 1
+      },
+      {
+        "pairing": "desserts",
+        "score": 1
+      },
+      {
+        "pairing": "duck",
+        "score": 1
+      },
+      {
+        "pairing": "fennel seeds",
+        "score": 1
+      },
+      {
+        "pairing": "figs",
+        "score": 1
+      },
+      {
+        "pairing": "FISH",
+        "score": 3
+      },
+      {
+        "pairing": "fruit",
+        "score": 1
+      },
+      {
+        "pairing": "garlic",
+        "score": 1
+      },
+      {
+        "pairing": "ginger",
+        "score": 1
+      },
+      {
+        "pairing": "hazelnuts",
+        "score": 1
+      },
+      {
+        "pairing": "lemon",
+        "score": 1
+      },
+      {
+        "pairing": "lentils",
+        "score": 1
+      },
+      {
+        "pairing": "mayonnaise",
+        "score": 1
+      },
+      {
+        "pairing": "Mediterranean cuisine",
+        "score": 1
+      },
+      {
+        "pairing": "melon",
+        "score": 1
+      },
+      {
+        "pairing": "Middle Eastern cuisine",
+        "score": 3
+      },
+      {
+        "pairing": "mole sauce",
+        "score": 1
+      },
+      {
+        "pairing": "Moroccan cuisine",
+        "score": 1
+      },
+      {
+        "pairing": "mussels",
+        "score": 1
+      },
+      {
+        "pairing": "nutmeg",
+        "score": 1
+      },
+      {
+        "pairing": "nuts",
+        "score": 1
+      },
+      {
+        "pairing": "orange",
+        "score": 1
+      },
+      {
+        "pairing": "parsnips",
+        "score": 1
+      },
+      {
+        "pairing": "peaches",
+        "score": 1
+      },
+      {
+        "pairing": "pears",
+        "score": 1
+      },
+      {
+        "pairing": "pepper",
+        "score": 1
+      },
+      {
+        "pairing": "pickles",
+        "score": 1
+      },
+      {
+        "pairing": "pineapple",
+        "score": 1
+      },
+      {
+        "pairing": "plums",
+        "score": 1
+      },
+      {
+        "pairing": "pork",
+        "score": 1
+      },
+      {
+        "pairing": "Portuguese cuisine",
+        "score": 1
+      },
+      {
+        "pairing": "Provençal cuisine (French)",
+        "score": 1
+      },
+      {
+        "pairing": "prunes",
+        "score": 1
+      },
+      {
+        "pairing": "pumpkin",
+        "score": 1
+      },
+      {
+        "pairing": "quince",
+        "score": 1
+      },
+      {
+        "pairing": "raisins",
+        "score": 1
+      },
+      {
+        "pairing": "rhubarb",
+        "score": 1
+      },
+      {
+        "pairing": "salumi",
+        "score": 1
+      },
+      {
+        "pairing": "Scandinavian cuisine",
+        "score": 1
+      },
+      {
+        "pairing": "shellfish",
+        "score": 1
+      },
+      {
+        "pairing": "soups, esp. fish",
+        "score": 1
+      },
+      {
+        "pairing": "star anise",
+        "score": 1
+      },
+      {
+        "pairing": "STEWS, ESP. FISH",
+        "score": 3
+      },
+      {
+        "pairing": "strawberries",
+        "score": 1
+      },
+      {
+        "pairing": "sugar",
+        "score": 1
+      },
+      {
+        "pairing": "sweet potatoes",
+        "score": 1
+      },
+      {
+        "pairing": "tea",
+        "score": 1
+      },
+      {
+        "pairing": "vanilla",
+        "score": 1
+      },
+      {
+        "pairing": "vegetables, root",
+        "score": 1
+      },
+      {
+        "pairing": "Vietnamese cuisine",
+        "score": 1
+      },
+      {
+        "pairing": "Walnuts",
+        "score": 1
+      }
+    ],
+    "flavor_affinities": []
+  },
+  "ANISE HYSSOP": {
+    "pairings": [
+      {
+        "pairing": "apricots",
+        "score": 1
+      },
+      {
+        "pairing": "basil",
+        "score": 1
+      },
+      {
+        "pairing": "beans, green",
+        "score": 1
+      },
+      {
+        "pairing": "beets",
+        "score": 1
+      },
+      {
+        "pairing": "berries, esp. blueberries",
+        "score": 3
+      },
+      {
+        "pairing": "beverages",
+        "score": 3
+      },
+      {
+        "pairing": "carrots",
+        "score": 3
+      },
+      {
+        "pairing": "cherries",
+        "score": 1
+      },
+      {
+        "pairing": "chervil",
+        "score": 1
+      },
+      {
+        "pairing": "chicken",
+        "score": 1
+      },
+      {
+        "pairing": "cream and ice cream",
+        "score": 1
+      },
+      {
+        "pairing": "currants",
+        "score": 1
+      },
+      {
+        "pairing": "custards",
+        "score": 1
+      },
+      {
+        "pairing": "desserts",
+        "score": 1
+      },
+      {
+        "pairing": "fennel bulb",
+        "score": 1
+      },
+      {
+        "pairing": "fish",
+        "score": 1
+      },
+      {
+        "pairing": "FRUITS, ESP. SUMMER",
+        "score": 3
+      },
+      {
+        "pairing": "honey",
+        "score": 3
+      },
+      {
+        "pairing": "lavender",
+        "score": 1
+      },
+      {
+        "pairing": "lemon",
+        "score": 1
+      },
+      {
+        "pairing": "lychees",
+        "score": 1
+      },
+      {
+        "pairing": "marjoram",
+        "score": 1
+      },
+      {
+        "pairing": "melons",
+        "score": 3
+      },
+      {
+        "pairing": "mint",
+        "score": 1
+      },
+      {
+        "pairing": "nectarines",
+        "score": 1
+      },
+      {
+        "pairing": "oranges",
+        "score": 1
+      },
+      {
+        "pairing": "parsley",
+        "score": 1
+      },
+      {
+        "pairing": "parsnips",
+        "score": 1
+      },
+      {
+        "pairing": "peaches",
+        "score": 3
+      },
+      {
+        "pairing": "pears",
+        "score": 1
+      },
+      {
+        "pairing": "plums",
+        "score": 1
+      },
+      {
+        "pairing": "pork",
+        "score": 1
+      },
+      {
+        "pairing": "raspberries",
+        "score": 3
+      },
+      {
+        "pairing": "rice",
+        "score": 1
+      },
+      {
+        "pairing": "salads: fruit, green",
+        "score": 3
+      },
+      {
+        "pairing": "shellfish (e.g., shrimp)",
+        "score": 1
+      },
+      {
+        "pairing": "shrimp",
+        "score": 1
+      },
+      {
+        "pairing": "spinach",
+        "score": 1
+      },
+      {
+        "pairing": "squash, winter",
+        "score": 1
+      },
+      {
+        "pairing": "stone fruits (e.g., peaches)",
+        "score": 1
+      },
+      {
+        "pairing": "sweet potatoes",
+        "score": 1
+      },
+      {
+        "pairing": "tarragon",
+        "score": 1
+      },
+      {
+        "pairing": "teas",
+        "score": 3
+      },
+      {
+        "pairing": "tomatoes",
+        "score": 1
+      },
+      {
+        "pairing": "vegetables, root",
+        "score": 1
+      },
+      {
+        "pairing": "watermelon",
+        "score": 1
+      },
+      {
+        "pairing": "zucchini",
+        "score": 1
+      }
+    ],
+    "flavor_affinities": []
+  },
+  "ANISE, STAR": {
+    "pairings": [
+      {
+        "pairing": "allspice",
+        "score": 1
+      },
+      {
+        "pairing": "baked goods (e.g., breads, pastries)",
+        "score": 1
+      },
+      {
+        "pairing": "beef",
+        "score": 1
+      },
+      {
+        "pairing": "beverages",
+        "score": 1
+      },
+      {
+        "pairing": "cardamom",
+        "score": 1
+      },
+      {
+        "pairing": "chestnuts",
+        "score": 1
+      },
+      {
+        "pairing": "chicken",
+        "score": 1
+      },
+      {
+        "pairing": "chile peppers",
+        "score": 1
+      },
+      {
+        "pairing": "chili powder",
+        "score": 1
+      },
+      {
+        "pairing": "CHINESE CUISINE",
+        "score": 3
+      },
+      {
+        "pairing": "chocolate, esp. milk",
+        "score": 3
+      },
+      {
+        "pairing": "cinnamon",
+        "score": 3
+      },
+      {
+        "pairing": "citrus zest",
+        "score": 1
+      },
+      {
+        "pairing": "cloves",
+        "score": 1
+      },
+      {
+        "pairing": "coriander",
+        "score": 1
+      },
+      {
+        "pairing": "cumin",
+        "score": 1
+      },
+      {
+        "pairing": "curry powder (ingredient)",
+        "score": 1
+      },
+      {
+        "pairing": "duck",
+        "score": 3
+      },
+      {
+        "pairing": "eggs",
+        "score": 1
+      },
+      {
+        "pairing": "fennel seeds",
+        "score": 1
+      },
+      {
+        "pairing": "figs",
+        "score": 1
+      },
+      {
+        "pairing": "fish",
+        "score": 3
+      },
+      {
+        "pairing": "FIVE-SPICE POWDER",
+        "score": 3
+      },
+      {
+        "pairing": "fruits, esp. tropical",
+        "score": 1
+      },
+      {
+        "pairing": "garlic",
+        "score": 1
+      },
+      {
+        "pairing": "ginger",
+        "score": 3
+      },
+      {
+        "pairing": "Indian cuisine",
+        "score": 1
+      },
+      {
+        "pairing": "kumquats",
+        "score": 1
+      },
+      {
+        "pairing": "leeks",
+        "score": 1
+      },
+      {
+        "pairing": "lemongrass",
+        "score": 1
+      },
+      {
+        "pairing": "lime, zest",
+        "score": 1
+      },
+      {
+        "pairing": "liqueurs",
+        "score": 1
+      },
+      {
+        "pairing": "mace",
+        "score": 1
+      },
+      {
+        "pairing": "Malaysian cuisine",
+        "score": 1
+      },
+      {
+        "pairing": "mangoes",
+        "score": 1
+      },
+      {
+        "pairing": "maple syrup",
+        "score": 1
+      },
+      {
+        "pairing": "meats, esp. fatty",
+        "score": 1
+      },
+      {
+        "pairing": "nutmeg",
+        "score": 1
+      },
+      {
+        "pairing": "orange, zest",
+        "score": 1
+      },
+      {
+        "pairing": "oxtails",
+        "score": 1
+      },
+      {
+        "pairing": "pears, esp. poached",
+        "score": 3
+      },
+      {
+        "pairing": "pepper: black, Szechuan",
+        "score": 1
+      },
+      {
+        "pairing": "pineapple",
+        "score": 1
+      },
+      {
+        "pairing": "plums, esp. poached",
+        "score": 1
+      },
+      {
+        "pairing": "pork",
+        "score": 3
+      },
+      {
+        "pairing": "poultry",
+        "score": 1
+      },
+      {
+        "pairing": "pumpkin",
+        "score": 1
+      },
+      {
+        "pairing": "raspberries",
+        "score": 1
+      },
+      {
+        "pairing": "root vegetables",
+        "score": 1
+      },
+      {
+        "pairing": "salmon",
+        "score": 1
+      },
+      {
+        "pairing": "sauces",
+        "score": 1
+      },
+      {
+        "pairing": "scallions",
+        "score": 1
+      },
+      {
+        "pairing": "scallops",
+        "score": 1
+      },
+      {
+        "pairing": "shellfish",
+        "score": 1
+      },
+      {
+        "pairing": "shrimp",
+        "score": 1
+      },
+      {
+        "pairing": "soups",
+        "score": 3
+      },
+      {
+        "pairing": "soy sauce",
+        "score": 1
+      },
+      {
+        "pairing": "stews",
+        "score": 1
+      },
+      {
+        "pairing": "stocks: beef, chicken",
+        "score": 3
+      },
+      {
+        "pairing": "sweet potatoes",
+        "score": 1
+      },
+      {
+        "pairing": "tamarind",
+        "score": 1
+      },
+      {
+        "pairing": "teas",
+        "score": 1
+      },
+      {
+        "pairing": "tuna",
+        "score": 1
+      },
+      {
+        "pairing": "turmeric",
+        "score": 1
+      },
+      {
+        "pairing": "vanilla",
+        "score": 1
+      },
+      {
+        "pairing": "vegetables, esp. root",
+        "score": 1
+      },
+      {
+        "pairing": "Vietnamese cuisine (e.g.,pho)",
+        "score": 3
+      },
+      {
+        "pairing": "wine, rice",
+        "score": 1
+      }
+    ],
+    "flavor_affinities": [
+      "star anise + cream + maple",
+      "star anise + milk + milk chocolate + orange zest + sugar",
+      "star anise + pork + soy sauce + sugar"
+    ]
+  },
+  "Apple": {
+    "pairings": [
+      {
+        "pairing": "allspice",
+        "score": 1
+      },
+      {
+        "pairing": "almonds",
+        "score": 1
+      },
+      {
+        "pairing": "apple cider or juice",
+        "score": 3
+      },
+      {
+        "pairing": "applejack",
+        "score": 3
+      },
+      {
+        "pairing": "apricots: dried, jam, puree",
+        "score": 3
+      },
+      {
+        "pairing": "Armagnac",
+        "score": 1
+      },
+      {
+        "pairing": "bacon",
+        "score": 1
+      },
+      {
+        "pairing": "bay leaf",
+        "score": 1
+      },
+      {
+        "pairing": "beef",
+        "score": 1
+      },
+      {
+        "pairing": "blackberries",
+        "score": 1
+      },
+      {
+        "pairing": "bourbon",
+        "score": 1
+      },
+      {
+        "pairing": "brandy, esp. apple",
+        "score": 3
+      },
+      {
+        "pairing": "brioche",
+        "score": 1
+      },
+      {
+        "pairing": "BUTTER, UNSALTED",
+        "score": 4
+      },
+      {
+        "pairing": "butterscotch",
+        "score": 1
+      },
+      {
+        "pairing": "cabbage, red",
+        "score": 1
+      },
+      {
+        "pairing": "CALVADOS",
+        "score": 4
+      },
+      {
+        "pairing": "CARAMEL",
+        "score": 4
+      },
+      {
+        "pairing": "cardamom",
+        "score": 1
+      },
+      {
+        "pairing": "celery",
+        "score": 1
+      },
+      {
+        "pairing": "celery root",
+        "score": 1
+      },
+      {
+        "pairing": "cheese: Camembert, cheddar, goat, Gruy\u00e8re",
+        "score": 3
+      },
+      {
+        "pairing": "cherries: dried, fresh",
+        "score": 1
+      },
+      {
+        "pairing": "chestnuts",
+        "score": 1
+      },
+      {
+        "pairing": "chicken",
+        "score": 1
+      },
+      {
+        "pairing": "chives",
+        "score": 1
+      },
+      {
+        "pairing": "cider",
+        "score": 1
+      },
+      {
+        "pairing": "*CINNAMON",
+        "score": 5
+      },
+      {
+        "pairing": "cloves",
+        "score": 3
+      },
+      {
+        "pairing": "cognac",
+        "score": 3
+      },
+      {
+        "pairing": "Cointreau",
+        "score": 1
+      },
+      {
+        "pairing": "coriander",
+        "score": 1
+      },
+      {
+        "pairing": "cranberries",
+        "score": 1
+      },
+      {
+        "pairing": "CREAM AND ICE CREAM",
+        "score": 4
+      },
+      {
+        "pairing": "cr\u00e8me anglaise (sauce)",
+        "score": 1
+      },
+      {
+        "pairing": "cr\u00e8me fra\u00eeche",
+        "score": 1
+      },
+      {
+        "pairing": "crust: pastry, pie",
+        "score": 1
+      },
+      {
+        "pairing": "cumin",
+        "score": 1
+      },
+      {
+        "pairing": "currants, esp. black, and currant jelly",
+        "score": 1
+      },
+      {
+        "pairing": "curry powder",
+        "score": 1
+      },
+      {
+        "pairing": "custards",
+        "score": 3
+      },
+      {
+        "pairing": "dates",
+        "score": 1
+      },
+      {
+        "pairing": "duck",
+        "score": 1
+      },
+      {
+        "pairing": "eggplant",
+        "score": 1
+      },
+      {
+        "pairing": "fennel",
+        "score": 1
+      },
+      {
+        "pairing": "French cuisine, esp. from Normandy",
+        "score": 1
+      },
+      {
+        "pairing": "fris\u00e9e",
+        "score": 1
+      },
+      {
+        "pairing": "ginger",
+        "score": 3
+      },
+      {
+        "pairing": "goose",
+        "score": 1
+      },
+      {
+        "pairing": "hazelnuts",
+        "score": 1
+      },
+      {
+        "pairing": "honey, esp. chestnut, wildflower",
+        "score": 3
+      },
+      {
+        "pairing": "horseradish",
+        "score": 1
+      },
+      {
+        "pairing": "ice cream",
+        "score": 1
+      },
+      {
+        "pairing": "Kirsch",
+        "score": 3
+      },
+      {
+        "pairing": "lavender",
+        "score": 1
+      },
+      {
+        "pairing": "LEMON: JUICE, ZEST",
+        "score": 4
+      },
+      {
+        "pairing": "lemon thyme",
+        "score": 1
+      },
+      {
+        "pairing": "lychees",
+        "score": 1
+      },
+      {
+        "pairing": "Madeira",
+        "score": 3
+      },
+      {
+        "pairing": "maple syrup",
+        "score": 1
+      },
+      {
+        "pairing": "mayonnaise",
+        "score": 1
+      },
+      {
+        "pairing": "meringue",
+        "score": 1
+      },
+      {
+        "pairing": "molasses",
+        "score": 1
+      },
+      {
+        "pairing": "mustard",
+        "score": 1
+      },
+      {
+        "pairing": "nutmeg",
+        "score": 3
+      },
+      {
+        "pairing": "nuts",
+        "score": 1
+      },
+      {
+        "pairing": "oatmeal and oats",
+        "score": 1
+      },
+      {
+        "pairing": "oil: canola, hazelnut, walnut",
+        "score": 1
+      },
+      {
+        "pairing": "olive oil",
+        "score": 1
+      },
+      {
+        "pairing": "onions, esp. green, red",
+        "score": 1
+      },
+      {
+        "pairing": "orange: juice, zest",
+        "score": 1
+      },
+      {
+        "pairing": "parsley",
+        "score": 1
+      },
+      {
+        "pairing": "peanuts and peanut butter",
+        "score": 1
+      },
+      {
+        "pairing": "pears",
+        "score": 1
+      },
+      {
+        "pairing": "pecans",
+        "score": 3
+      },
+      {
+        "pairing": "pepper, black",
+        "score": 1
+      },
+      {
+        "pairing": "pies",
+        "score": 1
+      },
+      {
+        "pairing": "pineapple",
+        "score": 1
+      },
+      {
+        "pairing": "pine nuts",
+        "score": 3
+      },
+      {
+        "pairing": "pistachios",
+        "score": 1
+      },
+      {
+        "pairing": "plums",
+        "score": 1
+      },
+      {
+        "pairing": "pomegranates",
+        "score": 1
+      },
+      {
+        "pairing": "pork",
+        "score": 3
+      },
+      {
+        "pairing": "poultry",
+        "score": 1
+      },
+      {
+        "pairing": "prunes",
+        "score": 1
+      },
+      {
+        "pairing": "puff pastry",
+        "score": 1
+      },
+      {
+        "pairing": "pumpkin",
+        "score": 3
+      },
+      {
+        "pairing": "quince",
+        "score": 1
+      },
+      {
+        "pairing": "raisins, esp. seedless, white",
+        "score": 3
+      },
+      {
+        "pairing": "rhubarb",
+        "score": 1
+      },
+      {
+        "pairing": "rice and rice pudding",
+        "score": 1
+      },
+      {
+        "pairing": "rosemary",
+        "score": 1
+      },
+      {
+        "pairing": "RUM: DARK, LIGHT",
+        "score": 4
+      },
+      {
+        "pairing": "salads: fruit, green",
+        "score": 1
+      },
+      {
+        "pairing": "salt, kosher",
+        "score": 1
+      },
+      {
+        "pairing": "sauerkraut",
+        "score": 1
+      },
+      {
+        "pairing": "sherry",
+        "score": 3
+      },
+      {
+        "pairing": "soups",
+        "score": 1
+      },
+      {
+        "pairing": "sour cream",
+        "score": 1
+      },
+      {
+        "pairing": "star anise",
+        "score": 1
+      },
+      {
+        "pairing": "SUGAR: BROWN, WHITE",
+        "score": 4
+      },
+      {
+        "pairing": "sweet potatoes",
+        "score": 3
+      },
+      {
+        "pairing": "tarragon",
+        "score": 1
+      },
+      {
+        "pairing": "tarts",
+        "score": 1
+      },
+      {
+        "pairing": "thyme",
+        "score": 1
+      },
+      {
+        "pairing": "vanilla",
+        "score": 3
+      },
+      {
+        "pairing": "verjus",
+        "score": 1
+      },
+      {
+        "pairing": "vermouth",
+        "score": 3
+      },
+      {
+        "pairing": "vinegar: apple cider, raspberry",
+        "score": 1
+      },
+      {
+        "pairing": "WALNUTS",
+        "score": 4
+      },
+      {
+        "pairing": "wine: red, dry white",
+        "score": 1
+      },
+      {
+        "pairing": "yogurt",
+        "score": 1
+      }
+    ],
+    "flavor_affinities": [
+      "apples + almonds + caramel",
+      "apples + almonds + Armagnac + cr\u00e8me fra\u00eeche + raisins",
+      "apples + apricots + pine nuts + rosemary",
+      "apples + brown sugar + cream + walnuts",
+      "apples + Calvados + cranberries + maple syrup",
+      "apples + caramel + cinnamon",
+      "apples + caramel + cinnamon + dates + lemon confit + quince + ras el",
+      "hanout + vanilla",
+      "apples + caramel + peanuts",
+      "apples + caramel + pecans",
+      "apples + caramel + pistachios + vanilla",
+      "apples + celery + walnuts",
+      "apples + cinnamon + cranberries",
+      "apples + cinnamon + dark chocolate + yams",
+      "apples + cream + ginger",
+      "apples + ginger + hazelnuts",
+      "apples + ginger + lemon + quince + sugar",
+      "apples + honey + lemon thyme",
+      "apples + raisins + rum",
+      "apples + red cabbage + cinnamon"
+    ]
+  },
+  "APRICOTS": {
+    "pairings": [
+      {
+        "pairing": "allspice",
+        "score": 1
+      },
+      {
+        "pairing": "ALMONDS",
+        "score": 4
+      },
+      {
+        "pairing": "amaretto",
+        "score": 1
+      },
+      {
+        "pairing": "anise",
+        "score": 1
+      },
+      {
+        "pairing": "apples",
+        "score": 3
+      },
+      {
+        "pairing": "apricot brandy",
+        "score": 1
+      },
+      {
+        "pairing": "bananas",
+        "score": 1
+      },
+      {
+        "pairing": "blackberries",
+        "score": 1
+      },
+      {
+        "pairing": "blueberries",
+        "score": 1
+      },
+      {
+        "pairing": "brandy",
+        "score": 1
+      },
+      {
+        "pairing": "butter, unsalted",
+        "score": 1
+      },
+      {
+        "pairing": "caramel",
+        "score": 1
+      },
+      {
+        "pairing": "cardamom",
+        "score": 3
+      },
+      {
+        "pairing": "cayenne",
+        "score": 1
+      },
+      {
+        "pairing": "cheese (e.g., Brie, Reblochon, ricotta)",
+        "score": 1
+      },
+      {
+        "pairing": "cheesecake",
+        "score": 1
+      },
+      {
+        "pairing": "cherries",
+        "score": 3
+      },
+      {
+        "pairing": "chicken",
+        "score": 1
+      },
+      {
+        "pairing": "chocolate, white",
+        "score": 1
+      },
+      {
+        "pairing": "cinnamon",
+        "score": 3
+      },
+      {
+        "pairing": "coconut",
+        "score": 1
+      },
+      {
+        "pairing": "coffee and espresso",
+        "score": 1
+      },
+      {
+        "pairing": "cognac",
+        "score": 1
+      },
+      {
+        "pairing": "coriander",
+        "score": 1
+      },
+      {
+        "pairing": "cranberries",
+        "score": 3
+      },
+      {
+        "pairing": "CREAM AND ICE CREAM",
+        "score": 4
+      },
+      {
+        "pairing": "crème anglaise",
+        "score": 1
+      },
+      {
+        "pairing": "custards (e.g., crème brûlée)",
+        "score": 3
+      },
+      {
+        "pairing": "duck",
+        "score": 1
+      },
+      {
+        "pairing": "foie gras",
+        "score": 1
+      },
+      {
+        "pairing": "game",
+        "score": 1
+      },
+      {
+        "pairing": "garlic",
+        "score": 1
+      },
+      {
+        "pairing": "ginger",
+        "score": 3
+      },
+      {
+        "pairing": "hazelnuts",
+        "score": 1
+      },
+      {
+        "pairing": "honey",
+        "score": 1
+      },
+      {
+        "pairing": "ice cream, esp. vanilla",
+        "score": 1
+      },
+      {
+        "pairing": "Kirsch",
+        "score": 3
+      },
+      {
+        "pairing": "lamb",
+        "score": 1
+      },
+      {
+        "pairing": "LEMON: juice, zest",
+        "score": 3
+      },
+      {
+        "pairing": "lemon verbena",
+        "score": 1
+      },
+      {
+        "pairing": "liqueurs: apricot, nut",
+        "score": 1
+      },
+      {
+        "pairing": "maple syrup",
+        "score": 1
+      },
+      {
+        "pairing": "mascarpone",
+        "score": 1
+      },
+      {
+        "pairing": "Mediterranean cuisine",
+        "score": 1
+      },
+      {
+        "pairing": "meringue",
+        "score": 1
+      },
+      {
+        "pairing": "Middle Eastern stews",
+        "score": 1
+      },
+      {
+        "pairing": "mint (garnish)",
+        "score": 1
+      },
+      {
+        "pairing": "Moroccan cuisine",
+        "score": 1
+      },
+      {
+        "pairing": "nectarines",
+        "score": 1
+      },
+      {
+        "pairing": "nutmeg",
+        "score": 1
+      },
+      {
+        "pairing": "nuts",
+        "score": 1
+      },
+      {
+        "pairing": "oats and oatmeal",
+        "score": 1
+      },
+      {
+        "pairing": "onions, esp. yellow",
+        "score": 1
+      },
+      {
+        "pairing": "orange: juice, zest",
+        "score": 3
+      },
+      {
+        "pairing": "orange liqueur",
+        "score": 1
+      },
+      {
+        "pairing": "peaches",
+        "score": 1
+      },
+      {
+        "pairing": "pepper, black",
+        "score": 3
+      },
+      {
+        "pairing": "pineapple",
+        "score": 1
+      },
+      {
+        "pairing": "pine nuts",
+        "score": 1
+      },
+      {
+        "pairing": "pistachios",
+        "score": 3
+      },
+      {
+        "pairing": "plums",
+        "score": 1
+      },
+      {
+        "pairing": "pork",
+        "score": 1
+      },
+      {
+        "pairing": "poultry",
+        "score": 1
+      },
+      {
+        "pairing": "praline",
+        "score": 1
+      },
+      {
+        "pairing": "prunes",
+        "score": 1
+      },
+      {
+        "pairing": "raisins",
+        "score": 1
+      },
+      {
+        "pairing": "raspberries",
+        "score": 1
+      },
+      {
+        "pairing": "rice pudding",
+        "score": 1
+      },
+      {
+        "pairing": "rosemary",
+        "score": 1
+      },
+      {
+        "pairing": "rum",
+        "score": 1
+      },
+      {
+        "pairing": "saffron",
+        "score": 1
+      },
+      {
+        "pairing": "salads, esp. fruit, green",
+        "score": 1
+      },
+      {
+        "pairing": "Sauternes",
+        "score": 1
+      },
+      {
+        "pairing": "sour cream",
+        "score": 1
+      },
+      {
+        "pairing": "strawberries",
+        "score": 1
+      },
+      {
+        "pairing": "SUGAR: brown, white",
+        "score": 3
+      },
+      {
+        "pairing": "tea: apple, apricot, Earl Grey",
+        "score": 1
+      },
+      {
+        "pairing": "*VANILLA",
+        "score": 5
+      },
+      {
+        "pairing": "vinegar, red wine",
+        "score": 1
+      },
+      {
+        "pairing": "walnuts",
+        "score": 1
+      },
+      {
+        "pairing": "wine: sweet, white",
+        "score": 1
+      },
+      {
+        "pairing": "yogurt",
+        "score": 1
+      }
+    ],
+    "flavor_affinities": [
+      "apricots + almonds + cream + sugar",
+      "apricots + almonds + meringue + Moscato d\u2019Asti",
+      "apricots + apples + pine nuts + rosemary",
+      "apricots + cranberries + white chocolate",
+      "apricots + oranges + sugar + vanilla + walnuts"
+    ]
+  },
+  "APRICOTS, DRIED": {
+    "pairings": [
+      {
+        "pairing": "allspice",
+        "score": 1
+      },
+      {
+        "pairing": "cherries, dried",
+        "score": 1
+      },
+      {
+        "pairing": "cinnamon",
+        "score": 1
+      },
+      {
+        "pairing": "currants",
+        "score": 1
+      },
+      {
+        "pairing": "custard",
+        "score": 1
+      },
+      {
+        "pairing": "French toast",
+        "score": 1
+      },
+      {
+        "pairing": "ginger",
+        "score": 1
+      },
+      {
+        "pairing": "hazelnuts",
+        "score": 1
+      },
+      {
+        "pairing": "honey",
+        "score": 1
+      },
+      {
+        "pairing": "ice cream",
+        "score": 1
+      },
+      {
+        "pairing": "lemon: juice, zest",
+        "score": 1
+      },
+      {
+        "pairing": "Madeira",
+        "score": 1
+      },
+      {
+        "pairing": "Moroccan cuisine",
+        "score": 1
+      },
+      {
+        "pairing": "orange: juice, zest",
+        "score": 3
+      },
+      {
+        "pairing": "pancakes/crepes",
+        "score": 1
+      },
+      {
+        "pairing": "pistachios",
+        "score": 1
+      },
+      {
+        "pairing": "pork",
+        "score": 1
+      },
+      {
+        "pairing": "prunes",
+        "score": 1
+      },
+      {
+        "pairing": "pumpkin seeds",
+        "score": 1
+      },
+      {
+        "pairing": "raisins",
+        "score": 1
+      },
+      {
+        "pairing": "rice pudding",
+        "score": 1
+      },
+      {
+        "pairing": "sugar",
+        "score": 1
+      },
+      {
+        "pairing": "tamarind paste",
+        "score": 1
+      },
+      {
+        "pairing": "vanilla",
+        "score": 1
+      },
+      {
+        "pairing": "wine, sweet white (e.g., Muscat)",
+        "score": 1
+      }
+    ],
+    "flavor_affinities": [
+      "dried apricots + dried cherries + ginger + orange + pistachios"
+    ]
+  },
+  "AROMA": {
+    "pairings": [
+      {
+        "pairing": "chocolate",
+        "score": 1
+      },
+      {
+        "pairing": "cinnamon",
+        "score": 1
+      },
+      {
+        "pairing": "herbs",
+        "score": 1
+      },
+      {
+        "pairing": "pineapple",
+        "score": 1
+      },
+      {
+        "pairing": "sous-vide cooking",
+        "score": 1
+      },
+      {
+        "pairing": "spices",
+        "score": 1
+      },
+      {
+        "pairing": "star anise",
+        "score": 1
+      },
+      {
+        "pairing": "truffles",
+        "score": 1
+      },
+      {
+        "pairing": "vanilla",
+        "score": 1
+      }
+    ],
+    "flavor_affinities": []
+  },
+  "ARTICHOKES": {
+    "pairings": [
+      {
+        "pairing": "aioli",
+        "score": 1
+      },
+      {
+        "pairing": "anchovies",
+        "score": 3
+      },
+      {
+        "pairing": "arugula",
+        "score": 1
+      },
+      {
+        "pairing": "bacon",
+        "score": 1
+      },
+      {
+        "pairing": "basil",
+        "score": 1
+      },
+      {
+        "pairing": "bay leaf",
+        "score": 3
+      },
+      {
+        "pairing": "beans, fava",
+        "score": 1
+      },
+      {
+        "pairing": "beets",
+        "score": 1
+      },
+      {
+        "pairing": "bell peppers, esp. roasted",
+        "score": 1
+      },
+      {
+        "pairing": "bread crumbs",
+        "score": 3
+      },
+      {
+        "pairing": "butter",
+        "score": 3
+      },
+      {
+        "pairing": "capers",
+        "score": 1
+      },
+      {
+        "pairing": "carrots",
+        "score": 1
+      },
+      {
+        "pairing": "cashews",
+        "score": 1
+      },
+      {
+        "pairing": "celery",
+        "score": 1
+      },
+      {
+        "pairing": "cheese: Emmental, goat, Gruy\u00e8re, Parmesan",
+        "score": 3
+      },
+      {
+        "pairing": "chervil",
+        "score": 1
+      },
+      {
+        "pairing": "chicken",
+        "score": 1
+      },
+      {
+        "pairing": "chives",
+        "score": 1
+      },
+      {
+        "pairing": "coriander",
+        "score": 1
+      },
+      {
+        "pairing": "cream",
+        "score": 1
+      },
+      {
+        "pairing": "cr\u00e8me fra\u00eeche",
+        "score": 1
+      },
+      {
+        "pairing": "eggs: yolk, hard-boiled",
+        "score": 1
+      },
+      {
+        "pairing": "French cuisine",
+        "score": 1
+      },
+      {
+        "pairing": "GARLIC",
+        "score": 4
+      },
+      {
+        "pairing": "grapefruit",
+        "score": 1
+      },
+      {
+        "pairing": "ham (e.g., Serrano)",
+        "score": 1
+      },
+      {
+        "pairing": "hazelnuts",
+        "score": 1
+      },
+      {
+        "pairing": "hollandaise sauce",
+        "score": 1
+      },
+      {
+        "pairing": "Italian cuisine",
+        "score": 1
+      },
+      {
+        "pairing": "leeks",
+        "score": 1
+      },
+      {
+        "pairing": "LEMON: confit, juice, zest",
+        "score": 3
+      },
+      {
+        "pairing": "lobster",
+        "score": 1
+      },
+      {
+        "pairing": "mayonnaise",
+        "score": 3
+      },
+      {
+        "pairing": "Mediterranean cuisine",
+        "score": 1
+      },
+      {
+        "pairing": "MINT",
+        "score": 4
+      },
+      {
+        "pairing": "Moroccan cuisine",
+        "score": 1
+      },
+      {
+        "pairing": "mushrooms",
+        "score": 1
+      },
+      {
+        "pairing": "mustard, Dijon",
+        "score": 1
+      },
+      {
+        "pairing": "nuts: cashews, hazelnuts, walnuts",
+        "score": 1
+      },
+      {
+        "pairing": "oil: hazelnut, peanut",
+        "score": 1
+      },
+      {
+        "pairing": "OLIVE OIL",
+        "score": 4
+      },
+      {
+        "pairing": "olives: black, ni\u00e7oise",
+        "score": 1
+      },
+      {
+        "pairing": "ONIONS, ESP. SWEET AND YELLOW",
+        "score": 4
+      },
+      {
+        "pairing": "orange",
+        "score": 1
+      },
+      {
+        "pairing": "pancetta",
+        "score": 1
+      },
+      {
+        "pairing": "PARSLEY, FLAT-LEAF",
+        "score": 4
+      },
+      {
+        "pairing": "PEPPER: BLACK, WHITE",
+        "score": 4
+      },
+      {
+        "pairing": "pesto",
+        "score": 1
+      },
+      {
+        "pairing": "piquillo peppers",
+        "score": 1
+      },
+      {
+        "pairing": "potatoes",
+        "score": 1
+      },
+      {
+        "pairing": "prosciutto",
+        "score": 1
+      },
+      {
+        "pairing": "radicchio",
+        "score": 1
+      },
+      {
+        "pairing": "red pepper flakes",
+        "score": 1
+      },
+      {
+        "pairing": "rice",
+        "score": 1
+      },
+      {
+        "pairing": "risotto",
+        "score": 1
+      },
+      {
+        "pairing": "rosemary",
+        "score": 1
+      },
+      {
+        "pairing": "saffron",
+        "score": 1
+      },
+      {
+        "pairing": "sage",
+        "score": 1
+      },
+      {
+        "pairing": "salads",
+        "score": 1
+      },
+      {
+        "pairing": "SALT, KOSHER",
+        "score": 4
+      },
+      {
+        "pairing": "savory",
+        "score": 1
+      },
+      {
+        "pairing": "shallots",
+        "score": 1
+      },
+      {
+        "pairing": "shellfish (e.g., crab)",
+        "score": 1
+      },
+      {
+        "pairing": "sherry, dry",
+        "score": 1
+      },
+      {
+        "pairing": "shrimp",
+        "score": 1
+      },
+      {
+        "pairing": "soy sauce",
+        "score": 1
+      },
+      {
+        "pairing": "Spanish cuisine",
+        "score": 1
+      },
+      {
+        "pairing": "spinach",
+        "score": 1
+      },
+      {
+        "pairing": "stock, chicken",
+        "score": 1
+      },
+      {
+        "pairing": "sugar (pinch)",
+        "score": 1
+      },
+      {
+        "pairing": "tapenade",
+        "score": 1
+      },
+      {
+        "pairing": "tarragon, fresh",
+        "score": 1
+      },
+      {
+        "pairing": "THYME, FRESH",
+        "score": 4
+      },
+      {
+        "pairing": "TOMATOES",
+        "score": 4
+      },
+      {
+        "pairing": "truffles, black",
+        "score": 1
+      },
+      {
+        "pairing": "tuna",
+        "score": 1
+      },
+      {
+        "pairing": "vinaigrette",
+        "score": 1
+      },
+      {
+        "pairing": "vinegar: balsamic, rice, sherry, white wine",
+        "score": 1
+      },
+      {
+        "pairing": "walnuts",
+        "score": 1
+      },
+      {
+        "pairing": "WINE, DRY WHITE",
+        "score": 4
+      },
+      {
+        "pairing": "yogurt",
+        "score": 1
+      }
+    ],
+    "flavor_affinities": [
+      "artichokes + butter + garlic + lemon + parsley",
+      "artichokes + cream + Parmesan cheese + thyme",
+      "artichokes + garlic + lemon",
+      "artichokes + garlic + lemon + mint",
+      "artichokes + garlic + lemon + olive oil",
+      "artichokes + garlic + lemon + olive oil + thyme",
+      "artichokes + garlic + mint",
+      "artichokes + garlic + Parmesan cheese + thyme",
+      "artichokes + garlic + sage",
+      "artichokes + lemon + mint + yogurt",
+      "artichokes + lemon + onions",
+      "artichokes + mushrooms + onions + sausage",
+      "artichokes + olive oil + Parmesan cheese + white truffles"
+    ]
+  },
+  "ARTICHOKES, JERUSALEM": {
+    "pairings": [
+      {
+        "pairing": "anise",
+        "score": 1
+      },
+      {
+        "pairing": "bacon",
+        "score": 1
+      },
+      {
+        "pairing": "bay leaf",
+        "score": 1
+      },
+      {
+        "pairing": "butter",
+        "score": 3
+      },
+      {
+        "pairing": "celery",
+        "score": 1
+      },
+      {
+        "pairing": "cheese, goat",
+        "score": 1
+      },
+      {
+        "pairing": "chervil",
+        "score": 1
+      },
+      {
+        "pairing": "chives",
+        "score": 1
+      },
+      {
+        "pairing": "coriander",
+        "score": 1
+      },
+      {
+        "pairing": "cream",
+        "score": 3
+      },
+      {
+        "pairing": "cumin",
+        "score": 1
+      },
+      {
+        "pairing": "dill",
+        "score": 1
+      },
+      {
+        "pairing": "fennel leaves",
+        "score": 1
+      },
+      {
+        "pairing": "fennel seeds",
+        "score": 1
+      },
+      {
+        "pairing": "garlic",
+        "score": 3
+      },
+      {
+        "pairing": "ginger",
+        "score": 1
+      },
+      {
+        "pairing": "hazelnuts",
+        "score": 1
+      },
+      {
+        "pairing": "leeks",
+        "score": 1
+      },
+      {
+        "pairing": "lemon, juice",
+        "score": 3
+      },
+      {
+        "pairing": "mace",
+        "score": 1
+      },
+      {
+        "pairing": "meats, esp. roasted",
+        "score": 1
+      },
+      {
+        "pairing": "morels",
+        "score": 1
+      },
+      {
+        "pairing": "nutmeg",
+        "score": 3
+      },
+      {
+        "pairing": "oil: nut, sunflower seed",
+        "score": 3
+      },
+      {
+        "pairing": "olive oil",
+        "score": 3
+      },
+      {
+        "pairing": "onions",
+        "score": 1
+      },
+      {
+        "pairing": "parsley, flat-leaf",
+        "score": 3
+      },
+      {
+        "pairing": "pepper, black",
+        "score": 3
+      },
+      {
+        "pairing": "potatoes",
+        "score": 1
+      },
+      {
+        "pairing": "rosemary",
+        "score": 1
+      },
+      {
+        "pairing": "sage",
+        "score": 1
+      },
+      {
+        "pairing": "salmon",
+        "score": 1
+      },
+      {
+        "pairing": "salt, sea",
+        "score": 3
+      },
+      {
+        "pairing": "shallots",
+        "score": 1
+      },
+      {
+        "pairing": "stock, chicken",
+        "score": 1
+      },
+      {
+        "pairing": "tarragon",
+        "score": 1
+      },
+      {
+        "pairing": "thyme",
+        "score": 1
+      },
+      {
+        "pairing": "vinegar",
+        "score": 1
+      },
+      {
+        "pairing": "wine, dry white",
+        "score": 1
+      }
+    ],
+    "flavor_affinities": [
+      "Jerusalem artichoke + goat cheese + hazelnuts",
+      "Jerusalem artichoke + lemon + morels"
+    ]
+  },
+  "ARUGULA": {
+    "pairings": [
+      {
+        "pairing": "almonds",
+        "score": 1
+      },
+      {
+        "pairing": "basil",
+        "score": 1
+      },
+      {
+        "pairing": "beans, white",
+        "score": 1
+      },
+      {
+        "pairing": "bell peppers, esp. red",
+        "score": 1
+      },
+      {
+        "pairing": "cheese: Cabrales, feta, goat, mozzarella, Parmesan",
+        "score": 3
+      },
+      {
+        "pairing": "chicken",
+        "score": 1
+      },
+      {
+        "pairing": "cilantro",
+        "score": 1
+      },
+      {
+        "pairing": "clams",
+        "score": 1
+      },
+      {
+        "pairing": "corn",
+        "score": 1
+      },
+      {
+        "pairing": "cucumbers",
+        "score": 1
+      },
+      {
+        "pairing": "dill",
+        "score": 1
+      },
+      {
+        "pairing": "eggs, esp. hard-boiled",
+        "score": 1
+      },
+      {
+        "pairing": "endive",
+        "score": 3
+      },
+      {
+        "pairing": "fennel",
+        "score": 1
+      },
+      {
+        "pairing": "fish (e.g., salmon, tuna)",
+        "score": 1
+      },
+      {
+        "pairing": "garlic",
+        "score": 3
+      },
+      {
+        "pairing": "grapes",
+        "score": 1
+      },
+      {
+        "pairing": "Italian cuisine",
+        "score": 1
+      },
+      {
+        "pairing": "lemon juice",
+        "score": 3
+      },
+      {
+        "pairing": "lettuces",
+        "score": 1
+      },
+      {
+        "pairing": "lovage",
+        "score": 1
+      },
+      {
+        "pairing": "Mediterranean cuisine",
+        "score": 1
+      },
+      {
+        "pairing": "mesclun salad greens (key ingredient)",
+        "score": 1
+      },
+      {
+        "pairing": "mint",
+        "score": 1
+      },
+      {
+        "pairing": "mushrooms",
+        "score": 1
+      },
+      {
+        "pairing": "mussels",
+        "score": 1
+      },
+      {
+        "pairing": "nuts",
+        "score": 1
+      },
+      {
+        "pairing": "olive oil",
+        "score": 3
+      },
+      {
+        "pairing": "olives, black",
+        "score": 1
+      },
+      {
+        "pairing": "oranges, esp. blood",
+        "score": 1
+      },
+      {
+        "pairing": "pancetta",
+        "score": 1
+      },
+      {
+        "pairing": "parsley",
+        "score": 1
+      },
+      {
+        "pairing": "pasta",
+        "score": 1
+      },
+      {
+        "pairing": "pears",
+        "score": 1
+      },
+      {
+        "pairing": "pesto",
+        "score": 1
+      },
+      {
+        "pairing": "pine nuts",
+        "score": 1
+      },
+      {
+        "pairing": "potatoes",
+        "score": 1
+      },
+      {
+        "pairing": "prosciutto",
+        "score": 1
+      },
+      {
+        "pairing": "radicchio",
+        "score": 3
+      },
+      {
+        "pairing": "radishes",
+        "score": 1
+      },
+      {
+        "pairing": "risotto",
+        "score": 1
+      },
+      {
+        "pairing": "salads and salad greens",
+        "score": 3
+      },
+      {
+        "pairing": "salt, esp. sea",
+        "score": 1
+      },
+      {
+        "pairing": "shallots",
+        "score": 1
+      },
+      {
+        "pairing": "shellfish (e.g., shrimp)",
+        "score": 1
+      },
+      {
+        "pairing": "tomatoes",
+        "score": 3
+      },
+      {
+        "pairing": "tuna",
+        "score": 1
+      },
+      {
+        "pairing": "vinaigrettes",
+        "score": 1
+      },
+      {
+        "pairing": "vinegar: balsamic, champagne,",
+        "score": 3
+      },
+      {
+        "pairing": "red wine, sherry, white wine",
+        "score": 1
+      },
+      {
+        "pairing": "watercress",
+        "score": 1
+      }
+    ],
+    "flavor_affinities": [
+      "arugula + balsamic vinegar + lemon + olive oil + Parmesan cheese",
+      "arugula + Cabrales cheese + endive + grapes",
+      "arugula + cucumber + feta cheese + mint",
+      "arugula + endive + radicchio",
+      "arugula + fennel + pears",
+      "arugula + pears + prosciutto"
+    ]
+  },
+  "ASPARAGUS": {
+    "pairings": [
+      {
+        "pairing": "almonds",
+        "score": 1
+      },
+      {
+        "pairing": "anchovies",
+        "score": 1
+      },
+      {
+        "pairing": "artichokes",
+        "score": 1
+      },
+      {
+        "pairing": "basil",
+        "score": 1
+      },
+      {
+        "pairing": "bay leaf",
+        "score": 1
+      },
+      {
+        "pairing": "beets",
+        "score": 1
+      },
+      {
+        "pairing": "bread crumbs",
+        "score": 1
+      },
+      {
+        "pairing": "butter, brown",
+        "score": 1
+      },
+      {
+        "pairing": "BUTTER, UNSALTED",
+        "score": 4
+      },
+      {
+        "pairing": "capers",
+        "score": 1
+      },
+      {
+        "pairing": "caraway seeds",
+        "score": 1
+      },
+      {
+        "pairing": "carrots",
+        "score": 1
+      },
+      {
+        "pairing": "cayenne",
+        "score": 1
+      },
+      {
+        "pairing": "CHEESE: ch\u00e8vre, Fontina, goat, Muenster, PARMESAN, PECORINO,",
+        "score": 3
+      },
+      {
+        "pairing": "ricotta, Romano",
+        "score": 3
+      },
+      {
+        "pairing": "chervil",
+        "score": 3
+      },
+      {
+        "pairing": "chives",
+        "score": 1
+      },
+      {
+        "pairing": "crab",
+        "score": 1
+      },
+      {
+        "pairing": "cream, heavy",
+        "score": 3
+      },
+      {
+        "pairing": "crème fraîche",
+        "score": 1
+      },
+      {
+        "pairing": "dill",
+        "score": 3
+      },
+      {
+        "pairing": "EGGS AND EGG DISHES (e.g., coddled, hard-boiled omelets)",
+        "score": 3
+      },
+      {
+        "pairing": "fava beans",
+        "score": 1
+      },
+      {
+        "pairing": "French cuisine",
+        "score": 1
+      },
+      {
+        "pairing": "garlic",
+        "score": 3
+      },
+      {
+        "pairing": "ginger",
+        "score": 1
+      },
+      {
+        "pairing": "ham",
+        "score": 1
+      },
+      {
+        "pairing": "hollandaise sauce",
+        "score": 3
+      },
+      {
+        "pairing": "Italian cuisine",
+        "score": 1
+      },
+      {
+        "pairing": "leeks",
+        "score": 3
+      },
+      {
+        "pairing": "LEMON: JUICE, ZEST",
+        "score": 4
+      },
+      {
+        "pairing": "lemon thyme",
+        "score": 1
+      },
+      {
+        "pairing": "lime, juice",
+        "score": 1
+      },
+      {
+        "pairing": "lobster",
+        "score": 1
+      },
+      {
+        "pairing": "Marsala wine",
+        "score": 1
+      },
+      {
+        "pairing": "mascarpone",
+        "score": 1
+      },
+      {
+        "pairing": "mayonnaise",
+        "score": 1
+      },
+      {
+        "pairing": "mushrooms, esp. cremini, morels, shiitakes",
+        "score": 3
+      },
+      {
+        "pairing": "mustard, Dijon",
+        "score": 3
+      },
+      {
+        "pairing": "oil: hazelnut, peanut, sesame, truffle",
+        "score": 1
+      },
+      {
+        "pairing": "OLIVE OIL",
+        "score": 4
+      },
+      {
+        "pairing": "onions, esp. spring, yellow",
+        "score": 1
+      },
+      {
+        "pairing": "orange",
+        "score": 1
+      },
+      {
+        "pairing": "oysters",
+        "score": 1
+      },
+      {
+        "pairing": "pancetta",
+        "score": 1
+      },
+      {
+        "pairing": "parsley, flat-leaf",
+        "score": 3
+      },
+      {
+        "pairing": "pasta",
+        "score": 1
+      },
+      {
+        "pairing": "peas",
+        "score": 1
+      },
+      {
+        "pairing": "PEPPER: BLACK, WHITE",
+        "score": 4
+      },
+      {
+        "pairing": "peppers, piquillo",
+        "score": 1
+      },
+      {
+        "pairing": "pistachios",
+        "score": 1
+      },
+      {
+        "pairing": "potatoes",
+        "score": 1
+      },
+      {
+        "pairing": "prosciutto",
+        "score": 1
+      },
+      {
+        "pairing": "ramps",
+        "score": 1
+      },
+      {
+        "pairing": "rice and risotto",
+        "score": 1
+      },
+      {
+        "pairing": "saffron",
+        "score": 1
+      },
+      {
+        "pairing": "sage",
+        "score": 1
+      },
+      {
+        "pairing": "salmon",
+        "score": 1
+      },
+      {
+        "pairing": "SALT: KOSHER, SEA",
+        "score": 4
+      },
+      {
+        "pairing": "sauce: béchamel, brown butter, Mornay",
+        "score": 1
+      },
+      {
+        "pairing": "savory",
+        "score": 1
+      },
+      {
+        "pairing": "scallions",
+        "score": 1
+      },
+      {
+        "pairing": "sesame seeds",
+        "score": 1
+      },
+      {
+        "pairing": "shallots",
+        "score": 3
+      },
+      {
+        "pairing": "shrimp",
+        "score": 1
+      },
+      {
+        "pairing": "soups",
+        "score": 1
+      },
+      {
+        "pairing": "sour cream",
+        "score": 1
+      },
+      {
+        "pairing": "soy sauce",
+        "score": 1
+      },
+      {
+        "pairing": "spinach",
+        "score": 1
+      },
+      {
+        "pairing": "stocks: chicken, vegetable",
+        "score": 3
+      },
+      {
+        "pairing": "tarragon",
+        "score": 3
+      },
+      {
+        "pairing": "thyme, fresh",
+        "score": 1
+      },
+      {
+        "pairing": "tomatoes",
+        "score": 1
+      },
+      {
+        "pairing": "turnips",
+        "score": 1
+      },
+      {
+        "pairing": "vermouth",
+        "score": 1
+      },
+      {
+        "pairing": "vinaigrette: mustard, sherry",
+        "score": 3
+      },
+      {
+        "pairing": "vinegar: champagne, red wine, sherry, white wine",
+        "score": 3
+      },
+      {
+        "pairing": "wine, dry white (e.g., Muscat)",
+        "score": 1
+      },
+      {
+        "pairing": "yogurt",
+        "score": 1
+      }
+    ],
+    "flavor_affinities": [
+      "asparagus + capers + ham + shrimp",
+      "asparagus + cayenne + lime",
+      "asparagus + chervil + chives + garlic + morel mushrooms + shallots",
+      "asparagus + crab + morel mushrooms + ramps",
+      "asparagus + garlic + ginger + sesame",
+      "asparagus + garlic + leeks + onions + potatoes",
+      "asparagus + goat cheese + mascarpone + thyme",
+      "asparagus + ham + morel mushrooms + Parmesan cheese",
+      "asparagus + lemon + olive oil + black pepper",
+      "asparagus + morel mushrooms + ramps",
+      "asparagus + Parmesan cheese + eggs",
+      "asparagus + Parmesan cheese + pancetta + vinaigrette",
+      "asparagus + prosciutto + goat cheese + chervil"
+    ]
+  },
+  "ASPARAGUS, WHITE": {
+    "pairings": [
+      {
+        "pairing": "butter",
+        "score": 1
+      },
+      {
+        "pairing": "cheese, Parmesan",
+        "score": 1
+      },
+      {
+        "pairing": "chicken",
+        "score": 1
+      },
+      {
+        "pairing": "crab",
+        "score": 1
+      },
+      {
+        "pairing": "eggs: whole, yolks",
+        "score": 1
+      },
+      {
+        "pairing": "ham",
+        "score": 1
+      },
+      {
+        "pairing": "hazelnuts",
+        "score": 1
+      },
+      {
+        "pairing": "lemon",
+        "score": 1
+      },
+      {
+        "pairing": "mushrooms (e.g., cepes, morels, porcini)",
+        "score": 3
+      },
+      {
+        "pairing": "mustard",
+        "score": 1
+      },
+      {
+        "pairing": "oil, truffle",
+        "score": 3
+      },
+      {
+        "pairing": "olive oil",
+        "score": 1
+      },
+      {
+        "pairing": "parsley",
+        "score": 1
+      },
+      {
+        "pairing": "pepper, black",
+        "score": 1
+      },
+      {
+        "pairing": "salt, sea",
+        "score": 1
+      },
+      {
+        "pairing": "sauces: hollandaise, mayonnaise, romesco",
+        "score": 1
+      },
+      {
+        "pairing": "shallots",
+        "score": 1
+      },
+      {
+        "pairing": "shrimp",
+        "score": 1
+      },
+      {
+        "pairing": "stock, chicken",
+        "score": 1
+      },
+      {
+        "pairing": "sugar (pinch)",
+        "score": 1
+      },
+      {
+        "pairing": "tarragon",
+        "score": 1
+      },
+      {
+        "pairing": "vinaigrette",
+        "score": 1
+      },
+      {
+        "pairing": "vinegar: champagne, white",
+        "score": 1
+      },
+      {
+        "pairing": "wine, Riesling",
+        "score": 1
+      }
+    ],
+    "flavor_affinities": [
+      "white asparagus + hazelnuts + Parmesan cheese + truffle oil",
+      "white asparagus + lemon + cepes mushrooms + parsley",
+      "white asparagus + mustard + olive oil + vinegar"
+    ]
+  },
+  "ASTRINGENCY": {
+    "pairings": [
+      {
+        "pairing": "apples (astringent-sweet)",
+        "score": 1
+      },
+      {
+        "pairing": "artichokes",
+        "score": 1
+      },
+      {
+        "pairing": "asparagus",
+        "score": 1
+      },
+      {
+        "pairing": "bananas, unripe (astringent-sweet)",
+        "score": 1
+      },
+      {
+        "pairing": "basil",
+        "score": 1
+      },
+      {
+        "pairing": "beans",
+        "score": 1
+      },
+      {
+        "pairing": "berries",
+        "score": 1
+      },
+      {
+        "pairing": "broccoli",
+        "score": 1
+      },
+      {
+        "pairing": "buckwheat",
+        "score": 1
+      },
+      {
+        "pairing": "cashews",
+        "score": 1
+      },
+      {
+        "pairing": "cauliflower",
+        "score": 1
+      },
+      {
+        "pairing": "coffee",
+        "score": 1
+      },
+      {
+        "pairing": "cranberries",
+        "score": 1
+      },
+      {
+        "pairing": "figs (astringent-sweet)",
+        "score": 1
+      },
+      {
+        "pairing": "fruits: dried, raw, unripe",
+        "score": 1
+      },
+      {
+        "pairing": "grapes (astringent-sour-sweet)",
+        "score": 1
+      },
+      {
+        "pairing": "hazelnuts",
+        "score": 1
+      },
+      {
+        "pairing": "herbs",
+        "score": 1
+      },
+      {
+        "pairing": "honey",
+        "score": 1
+      },
+      {
+        "pairing": "legumes",
+        "score": 1
+      },
+      {
+        "pairing": "lentils",
+        "score": 1
+      },
+      {
+        "pairing": "lettuce",
+        "score": 1
+      },
+      {
+        "pairing": "mace",
+        "score": 1
+      },
+      {
+        "pairing": "marjoram",
+        "score": 1
+      },
+      {
+        "pairing": "okra",
+        "score": 1
+      },
+      {
+        "pairing": "parsley",
+        "score": 1
+      },
+      {
+        "pairing": "peaches (astringent-sweet)",
+        "score": 1
+      },
+      {
+        "pairing": "pears (astringent-sweet)",
+        "score": 1
+      },
+      {
+        "pairing": "persimmons",
+        "score": 1
+      },
+      {
+        "pairing": "plums (astringent-sweet)",
+        "score": 1
+      },
+      {
+        "pairing": "pomegranates (astringent-sour-sweet)",
+        "score": 1
+      },
+      {
+        "pairing": "quinoa",
+        "score": 1
+      },
+      {
+        "pairing": "rhubarb",
+        "score": 1
+      },
+      {
+        "pairing": "rye",
+        "score": 1
+      },
+      {
+        "pairing": "saffron",
+        "score": 1
+      },
+      {
+        "pairing": "sprouts",
+        "score": 1
+      },
+      {
+        "pairing": "tea",
+        "score": 1
+      },
+      {
+        "pairing": "turmeric",
+        "score": 1
+      },
+      {
+        "pairing": "turnips",
+        "score": 1
+      },
+      {
+        "pairing": "vegetables, raw",
+        "score": 1
+      },
+      {
+        "pairing": "walnuts",
+        "score": 1
+      }
+    ],
+    "flavor_affinities": []
+  },
+  "AVOCADOS": {
+    "pairings": [
+      {
+        "pairing": "arugula",
+        "score": 1
+      },
+      {
+        "pairing": "bacon",
+        "score": 1
+      },
+      {
+        "pairing": "basil and Thai basil",
+        "score": 1
+      },
+      {
+        "pairing": "beans, black",
+        "score": 1
+      },
+      {
+        "pairing": "bell peppers, esp. red",
+        "score": 1
+      },
+      {
+        "pairing": "butter, unsalted",
+        "score": 1
+      },
+      {
+        "pairing": "Central American cuisine",
+        "score": 1
+      },
+      {
+        "pairing": "chayote",
+        "score": 1
+      },
+      {
+        "pairing": "chervil",
+        "score": 1
+      },
+      {
+        "pairing": "chicken",
+        "score": 1
+      },
+      {
+        "pairing": "chile peppers: chipotle, jalape\u00f1o, serrano",
+        "score": 3
+      },
+      {
+        "pairing": "chives",
+        "score": 1
+      },
+      {
+        "pairing": "cilantro",
+        "score": 3
+      },
+      {
+        "pairing": "corn and masa",
+        "score": 1
+      },
+      {
+        "pairing": "crab",
+        "score": 1
+      },
+      {
+        "pairing": "cream, heavy",
+        "score": 1
+      },
+      {
+        "pairing": "cr\u00e8me fra\u00eeche",
+        "score": 1
+      },
+      {
+        "pairing": "cucumbers",
+        "score": 1
+      },
+      {
+        "pairing": "cumin",
+        "score": 1
+      },
+      {
+        "pairing": "dashi",
+        "score": 1
+      },
+      {
+        "pairing": "endive, esp. Belgian",
+        "score": 3
+      },
+      {
+        "pairing": "fennel",
+        "score": 1
+      },
+      {
+        "pairing": "fish",
+        "score": 1
+      },
+      {
+        "pairing": "frisée",
+        "score": 3
+      },
+      {
+        "pairing": "fruits, esp. tropical",
+        "score": 1
+      },
+      {
+        "pairing": "garlic",
+        "score": 1
+      },
+      {
+        "pairing": "grapefruit",
+        "score": 3
+      },
+      {
+        "pairing": "guacamole (key ingredient)",
+        "score": 3
+      },
+      {
+        "pairing": "jicama",
+        "score": 1
+      },
+      {
+        "pairing": "lemon: juice, zest",
+        "score": 3
+      },
+      {
+        "pairing": "LIME, JUICE",
+        "score": 4
+      },
+      {
+        "pairing": "lobster",
+        "score": 3
+      },
+      {
+        "pairing": "mangoes",
+        "score": 1
+      },
+      {
+        "pairing": "mayonnaise",
+        "score": 1
+      },
+      {
+        "pairing": "Mexican cuisine",
+        "score": 1
+      },
+      {
+        "pairing": "oil, canola",
+        "score": 3
+      },
+      {
+        "pairing": "olive oil",
+        "score": 1
+      },
+      {
+        "pairing": "ONIONS, ESP. RED, spring, white",
+        "score": 3
+      },
+      {
+        "pairing": "orange",
+        "score": 1
+      },
+      {
+        "pairing": "parsley, flat-leaf",
+        "score": 1
+      },
+      {
+        "pairing": "pepper: black, white",
+        "score": 3
+      },
+      {
+        "pairing": "radishes",
+        "score": 1
+      },
+      {
+        "pairing": "rocket",
+        "score": 1
+      },
+      {
+        "pairing": "sake",
+        "score": 1
+      },
+      {
+        "pairing": "salads, esp. green, seafood",
+        "score": 1
+      },
+      {
+        "pairing": "salsa",
+        "score": 1
+      },
+      {
+        "pairing": "SALT: KOSHER, SEA",
+        "score": 4
+      },
+      {
+        "pairing": "sandwiches",
+        "score": 1
+      },
+      {
+        "pairing": "scallions",
+        "score": 1
+      },
+      {
+        "pairing": "shellfish (e.g., shrimp)",
+        "score": 1
+      },
+      {
+        "pairing": "shrimp",
+        "score": 1
+      },
+      {
+        "pairing": "smoked fish (e.g., trout)",
+        "score": 1
+      },
+      {
+        "pairing": "soups",
+        "score": 1
+      },
+      {
+        "pairing": "sour cream",
+        "score": 3
+      },
+      {
+        "pairing": "Southwestern cuisine",
+        "score": 1
+      },
+      {
+        "pairing": "soy sauce",
+        "score": 1
+      },
+      {
+        "pairing": "spinach",
+        "score": 1
+      },
+      {
+        "pairing": "stocks: chicken, vegetable",
+        "score": 1
+      },
+      {
+        "pairing": "Tabasco sauce",
+        "score": 1
+      },
+      {
+        "pairing": "tarragon",
+        "score": 1
+      },
+      {
+        "pairing": "tequila",
+        "score": 1
+      },
+      {
+        "pairing": "tomatillos",
+        "score": 1
+      },
+      {
+        "pairing": "tomatoes",
+        "score": 3
+      },
+      {
+        "pairing": "vinaigrette",
+        "score": 3
+      },
+      {
+        "pairing": "VINEGAR: balsamic, cider, tarragon, white wine",
+        "score": 3
+      },
+      {
+        "pairing": "walnuts, oil",
+        "score": 1
+      },
+      {
+        "pairing": "yogurt",
+        "score": 1
+      }
+    ],
+    "flavor_affinities": [
+      "avocado + bacon + scallions + tomatoes",
+      "avocado + basil + red onions + tomatoes + balsamic vinegar",
+      "avocado + chiles + cilantro + lime + black pepper + salt + scallions",
+      "avocado + cilantro + lime juice",
+      "avocado + crab + grapefruit + tomato",
+      "avocado + crème fraîche + grapefruit",
+      "avocado + endive + frisée + lemon juice + sea salt",
+      "avocado + jalapeño chiles + cilantro + cumin + garlic + lime + onion",
+      "avocado + lemon + smoked trout"
+    ]
+  }
+}
