@@ -346,39 +346,43 @@
       .pairing-ingredient {
           position: relative;
           display: inline-block;
-          margin-bottom: 20px; /* Space below the dropdown */
+          margin-bottom: 20px; 
       }
 
       .select-holder {
-          position: relative; /* Needed for positioning the arrow */
+          position: relative; 
       }
 
-      /* Styles for the select dropdown */
+     
       select {
-          padding: 10px 40px 10px 10px; /* Adjust padding for space for the arrow */
-          appearance: none; /* Remove default arrow */
-          -webkit-appearance: none; /* For Safari */
-          -moz-appearance: none; /* For Firefox */
-          border: 1px solid #ccc; /* Border styling */
-          border-radius: 4px; /* Rounded corners */
-          background-color: #fff; /* Background color */
-          cursor: pointer; /* Pointer on hover */
-          font-size: 16px; /* Font size */
+          padding: 10px 40px 10px 10px;
+          appearance: none; 
+          -webkit-appearance: none; 
+          -moz-appearance: none; 
+          border: 1px solid #ccc; 
+          border-radius: 4px; 
+          background-color: #fff; 
+          cursor: pointer; 
+          font-size: 16px; 
       }
 
-      /* Custom arrow using a pseudo-element */
+     
       .select-holder::after {
             content: '';
             position: absolute;
-            right: 10px; /* Position the arrow */
+            right: 10px; 
             top: 50%;
-            transform: translateY(-50%); /* Center vertically */
-            width: 24px; /* Width of the arrow */
-            height: 24px; /* Height of the arrow */
-            background-image: url('arrow-down.svg'); /* SVG URL */
-            background-size: contain; /* Ensure the SVG scales correctly */
-            background-repeat: no-repeat; /* Prevent repeating the image */
-            pointer-events: none; /* Prevent mouse events on the arrow */
+            transform: translateY(-50%); 
+            width: 24px; 
+            height: 24px; 
+            background-image: url('arrow-down.svg');
+            background-size: contain; 
+            background-repeat: no-repeat;
+            pointer-events: none; 
+        }
+        .logo img{
+          height: 50px;
+          width: 52px;
         }
     </style>
   </head>
@@ -429,9 +433,9 @@
             </div>
 
             <div class="perfect-match simple-match">
-              <!-- <div class="logo">
-                <img src="best.svg" alt="" />
-              </div> -->
+              <div class="logo">
+                <img src="mountain.svg" alt="" />
+              </div>
               <div class="pairing-ingredient">
                 <label for="">Rank 3</label><br />
                 <p>Recommended by a number of experts</p>
@@ -445,9 +449,9 @@
             </div>
 
             <div class="perfect-match simple-match">
-              <!-- <div class="logo">
-                <img src="best.svg" alt="" />
-              </div> -->
+              <div class="logo">
+                <img src="leaf.svg" alt="" />
+              </div>
               <div class="pairing-ingredient">
                 <label for="">Rank 4</label><br />
                 <p>Suggested by one or more experts</p>
@@ -464,7 +468,7 @@
 
         <div class="selected-ingredients">
           <div class="left-section">
-            <h3>Matching Ingredients</h3>
+            <h3>Main Ingredient</h3>
 
             <div id="user-selcted-main-ingredient"></div>
           </div>
